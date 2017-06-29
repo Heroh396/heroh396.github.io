@@ -10,7 +10,5 @@ bigimg: "/assets/img/blogging/lessons/jekyllhomepage.png"
 ---
 # 1 Introduction
 - Earth is a huge battery that has been charged up over billions of years via
-  the energy of sunlight in the form of plant growth (Trai Dat la mot chiec pin
-  khong lo duoc nap day trong hang ty nam qua tu nang luong cua mat troi duoi
-  dang tang truong thuc vat) (test thử viết tiếng viêt nào)
+  the energy of sunlight in the form of plant growth (Trái Đất là một chiếc pin khổng lồ được nạp đầy trong hàng tỷ năm qua từ năng lượng của mặt trời dưới dạng sự tăng trường của các loài động, thực vật)
 - 
