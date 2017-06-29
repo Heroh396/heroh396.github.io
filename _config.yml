@@ -8,9 +8,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : H3
-tagline: Site Tagline
-author :
+title : Welcome to my home blog
+tagline: blog, h3
+author : H3
   name : Huy Hung Ho
   email : heroh396@gmail.com
   github : heroh396
