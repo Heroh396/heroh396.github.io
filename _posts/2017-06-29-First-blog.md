@@ -2,7 +2,7 @@
 layout: post
 title:  "First blog"
 subtitle: "Something about this blog using jekyll"
-date:   2016-09-29
+date:   2017-06-29
 categories: [lessons]
 tags: [jekyll, blog]
 permalink: /blogging/first-blog/
