@@ -3,8 +3,8 @@ layout: post
 title:  "Power in digital design"
 subtitle: "Research about the power in digital circuit"
 date:   2017-06-29
-categories: [digital design]
-tags: [digital, vhdl]
+categories: [ digital design ]
+tags: [ digital, vhdl ]
 permalink: /blogging/power-in-digital-design/
 ---
 {% include JB/setup %}
