@@ -16,7 +16,7 @@ permalink: /blogging/power-in-digital-design/
  ích.
 ## Dynamic power
 - Standby power là điện năng tiêu thụ trong khi chip không hoạt động. Nếu đồng
-  hồ bị dừng lại và các mạch tỷ lệ bịvô hiệu hóa, standby power được thiết lập
+  hồ bị dừng lại và các mạch tỷ lệ bị vô hiệu hóa, standby power được thiết lập
   bởi sự rò rỉ. Trong sleep mode, nguồn cung cấp cho các mạch không cần thiết
   được tắt để loại bỏ rò rỉ. Điều này làm giảm đáng kể sức mạnh của giấc ngủ,
   nhưng chip đòi hỏi thời gian và năng lượng để thức dậy để ngủ chỉ có thể sống
