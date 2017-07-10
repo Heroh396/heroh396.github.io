@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Power in digital design"
 subtitle: "Research about the power in digital circuit"
