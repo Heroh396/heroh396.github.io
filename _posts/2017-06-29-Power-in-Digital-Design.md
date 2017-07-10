@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Power in digital design"
 subtitle: "Research about the power in digital circuit"
 date:   2017-06-29
 categories: [ digital design ]
