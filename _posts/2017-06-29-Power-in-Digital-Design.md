@@ -2,8 +2,8 @@
 layout: post
 subtitle: "Research about the power in digital circuit"
 date:   2017-06-29
-categories: [ digital design ]
-tags: [ digital, vhdl ]
+categories: [digital design]
+tags: [digital, vhdl]
 permalink: /blogging/power-in-digital-design/
 ---
 {% include JB/setup %}
@@ -13,7 +13,7 @@ permalink: /blogging/power-in-digital-design/
 - Nguồn cũng có thể được xem xét ở chế độ hoạt động, chế độ chờ và chế độ ngủ.  Năng lượng hoạt động là năng lượng tiêu thụ trong khi chip đang làm việc hữu
  ích.
 
-- *Active power*:
+- *Active power*
 - *Standby power*: điện năng tiêu thụ trong khi chip không hoạt động. Nếu đồng hồ bị dừng lại và các mạch tỷ lệ bị vô hiệu hóa, standby power được thiết lập
   bởi sự rò rỉ
 - *Sleep mode power*: nguồn cung cấp cho các mạch không cần thiết được tắt để loại bỏ rò rỉ. Điều này làm giảm đáng kể sức mạnh của giấc ngủ, nhưng chip đòi hỏi thời gian và năng lượng để thức dậy để ngủ chỉ có thể sống sót nếu chip sẽ nhàn rỗi đủ lâu.
@@ -58,20 +58,16 @@ permalink: /blogging/power-in-digital-design/
 ## Static power
 ### Static power source
 - *Subthresh leakage* (rò rỉ dưới ngưỡng)
-- Dòng subthreshs leakage xảy ra khi trans OFF
-- Tăng điện áp nguồn or sử dụng 1 điện áp body âm (negative body voltage) sẽ
-  giảm rò rỉ
+    +  Dòng subthreshs leakage xảy ra khi trans OFF
+    + Tăng điện áp nguồn or sử dụng 1 điện áp body âm (negative body voltage) sẽ giảm rò rỉ
 - *Gate leakage* (rò rỉ cổng)
-- Xảy ra khi carriers đi qua 1 lớp điện môi gate mỏng khi điện áp đang có mặt
-  trên gate (when gate is ON)
+    + Xảy ra khi carriers đi qua 1 lớp điện môi gate mỏng khi điện áp đang có mặt trên gate (when gate is ON)
 - *Junction leakage* (rò rỉ lớp chuyển tiếp)
-- Xảy ra khi 1 vùng khuyếch tán source or drain có 1 điện thế khác trên bề mặt
+    + Xảy ra khi 1 vùng khuyếch tán source or drain có 1 điện thế khác trên bề mặt
 - *Contention current* (dòng xung đột)
-- Mạch static CMOS không có Contention current, tuy nhiên các mạch thay thế có 1
-  chút 
+    + Mạch static CMOS không có Contention current, tuy nhiên các mạch thay thế có 1 chút 
 - *Static power Estimation* (ước lượng)
-- Bằng tổng chiều rộng trans * leakage current trên mỗi chiều rộng * các phần
-  của trans trong trạng thái rò rỉ
+    + Bằng tổng chiều rộng trans * leakage current trên mỗi chiều rộng * các phần của trans trong trạng thái rò rỉ
 
 ### Power gating (197)
 - Cách đơn giản nhất để giảm dòng tĩnh trong sleep mode là tắt nguồn cấp cho các
