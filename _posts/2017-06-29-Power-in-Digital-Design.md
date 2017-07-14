@@ -102,3 +102,88 @@ permalink: /blogging/power-in-digital-design/
   so với các vectơ ngẫu nhiên. Áp dụng các vector đầu vào gây ra một số hoạt
   động chuyển đổi, do đó, một khối có thể cần phải ở lại trong giấc ngủ cho hàng
   ngàn chu kỳ để thu hồi năng lượng nhập vào trạng thái ngủ.
+
+
+## Energy-Delay Optimization
+
+### Minimum Energy
+- Tích của  power nhan voi time = energy. Vi vay power-delay product (PDP - san
+  phan cua cong suat - tre) la energy. 
+- The minimum energy point la nang luong toi thieu cho 1 hoat dong neu delay la
+  khong quan trong. 
+
+### Minimum Energy-Delay Product
+- Energy-Delay Product (EDP) là 1 số liệu phổ biến dùng để biểu hiện tầm quan
+  trọng cân bằng giữa Energy và Delay. 
+- Bỏ qua rò rỉ, chúng ta có giải quyết với việc supply voltage là minimum của
+  EDP
+
+### Minimum Energy Under a Delay Constraint (Ràng buộc thời gian trễ)
+- TODO: read more
+
+
+## Low Power Architecture
+- VLSI thiết kế được sử dụng để được hạn chế bởi số lượng bóng bán dẫn có thể
+  phù hợp trên một chip.
+- Hiện này có thể tích hợp hàng tỉ trans trên chip, thiết kế đã đạt tới ràng
+  buộc năng lượng và most energy-efficient design is the highest performer. 
+=> Thúc đẩy multicore processors
+
+### Microarchitecture
+- Kiến trúc tiết kiệm năng lượng tận dụng các nguyên tắc thiết kế có cấu trúc
+  của mô đun và địa phương.
+- [Pollack99] quan sát thấy hiệu suất của bộ xử lý tăng lên với căn bậc hai
+  của số lượng bóng bán dẫn.
+- Xây dựng các bộ vi xử lý phức tạp, kéo dài để trích xuất các bit cuối cùng của
+  song song cấp giảng dạy từ một vấn đề là sử dụng năng lượng không hiệu quả
+  cao. 
+- Kiến trúc vi mô đang tiến tới số lượng lớn các lõi đơn giản hơn để xử lý
+  sự song song cấp công việc và dữ liệu. Các lõi nhỏ hơn cũng có dây ngắn hơn và
+  truy cập bộ nhớ nhanh hơn. 
+- Memories có mật độ năng lượng thấp hơn nhiều so với logic 
+- Memories bây giờ bao gồm hơn một nửa diện tích của nhiều chip. Các đơn vị chức năng chuyên
+  biệt có thể đưa ra mức độ hiệu quả năng lượng cao hơn các bộ vi xử lý thông
+  thường. 
+
+### Parallelism and Pipelining
+- Nothing
+
+### Power Managements Modes
+- Tắt các phần của chip khi chúng không hoạt động bằng cách áp dụng công tắc đồng hồ và điện.
+- Nhiều chip bây giờ sử dụng một loạt các chế độ quản lý điện để có 1 sự đánh đổi
+  giữa tiết kiệm điện và thời gian đánh thức.
+- TODO: read figure 5.30 (page 205-206)
+
+
+## Pitfalls and Fallacies (Cạm bẫy và thất bại)
+
+### Oversizing Gates
+- Tăng kích thước 2 lần gate không giảm delay mà còn tăng 2 lần power
+
+### Designing for speed without regard to power
+- Các quy trình Nanometer đã đạt đến một điểm mà ở đó không còn có thể thiết kế
+  một con chip cỡ lớn cho tốc độ mà không cần quan tâm đến công suất: chip sẽ
+  không thể làm mát. 
+- Thiết kế phải có hiệu suất năng lượng. Các hệ thống được
+  điều chỉnh riêng cho tốc độ có khuynh hướng sử dụng các cổng lớn và logic suy
+  đoán mà tiêu thụ rất nhiều điện năng. 
+- Nếu một lõi hoặc phần tử xử lý có thể được đơn giản hóa để cung cấp 80% hiệu suất
+  ở 50% điện năng, thì hai lõi song song có thể cung cấp 160% lượng dữ liệu với cùng công suất.
+
+### Báo cáo công suất ở một tần số nhất định thay vì năng lượng mỗi lần hoạt động
+Đôi khi một mô đun được mô tả bằng sức mạnh của nó ở tần số tùy ý (ví dụ: 10 mW
+@ 1 GHz). Đây tương đương với năng lượng báo cáo vì E = P / f (ví dụ, 10 pJ).
+Báo cáo năng lượng được cho là sạch hơn vì nó là một số duy nhất.
+
+### Báo cáo Power-Delay Product khi Energy-Delay Product có nghĩa là
+Mở rộng điểm trước, đôi khi một hệ thống được mô tả bởi PDP của nó ở một tần số
+nhất định, nơi tần số chậm hơn so với sự chậm trễ của sự chậm trễ. Số liệu này
+thực sự là một biến thể của EDP, bởi vì sức mạnh ở tần số đủ thấp tương đương
+với năng lượng. Báo cáo EDP chắc chắn là sạch hơn bởi vì nó không liên quan đến
+một sự lựa chọn tùy ý về tần số.
+
+### Không tính đến sự rò rỉ
+Nhiều nhà thiết kế đã quen với việc tập trung vào năng lượng động. Rò rỉ trong
+tất cả các hình thức của nó đã trở nên cực kỳ quan trọng trong quy trình
+nanomet. Bỏ qua nó không chỉ đánh giá thấp điện năng tiêu thụ mà còn có thể gây
+ra thất bại chức năng trong các mạch nhạy cảm.
