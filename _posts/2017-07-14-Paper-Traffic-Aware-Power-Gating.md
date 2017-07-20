@@ -14,8 +14,13 @@ bigimg: "/assets/img/blogging/lessons/jekyllhomepage.png"
 
 ### Name
 - Sơ đồ power-gating nhận biết sự lưu thông cho NOC routers
+- The proposed design intelligently invokes the power-gating signals
+to the router buffers based on the statistical estimation of the
+traffic inter-arrival times. (Thiết kế đề xuất thông minh gọi tín hiệu
+power-gating cho router buffers dựa trên ước lượng thống kế của các lần đến...)
 - Overhead: chi phi phu
 - Idle state: trạng thái nhàn rỗi
+- Inter-arrival time: khoang thoi gian giua cac lan den
 
 ### Abtract
 - Thiết kế inter-connection network cải thiện hiệu suất multi-core system nhưng
@@ -30,7 +35,7 @@ bigimg: "/assets/img/blogging/lessons/jekyllhomepage.png"
 - Đồng bộ hóa các tín hiệu điều khiển bằng điện với lưu lượng truy cập đến sẽ
   giảm đáng kể điện năng gây ra do: độ trễ thức dậy bắt buộc để định tuyến
   traffic arrival ngay lâp tức và mức tiêu thụ năng lượng tĩnh do kéo dài trạng
-  thái nhàn rỗi 	trong sự dự đoán xuất hiện trong tương lai.
+  thái nhàn rỗi trong sự dự đoán xuất hiện trong tương lai.
 
 > > Result: average 25% improvement in static power and it reduces the average
  	packet latency by 35% comparison to basic power-gating.
