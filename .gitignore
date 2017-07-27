@@ -1,0 +1,6 @@
+*.swp
+*.o
+*.ko
+*.obj
+*.out
+*.exe
