@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Paper: Run-time Power-Gating of On-chip Router Using Look-ahead Routing
+title:  Paper Run-time Power-Gating of On-chip Router Using Look-ahead Routing
 date:   2017-07-25 10:41
 teaser: This is a paper in power-gating project.
 image: https://heroh396.github.io/imgs/random_1.jpg
