@@ -31,6 +31,7 @@ bigimg: "/assets/img/blogging/lessons/jekyllhomepage.png"
 	+ Switch power : use (clk gating, operand isolation), smaller when scaled down
 	+ Leakage power : use (multi-threshold voltages, PG), increase
 - Architecture and pipeline:
-	+ ![arch_pipe](imgs/look-ahead-architecture_pipeline.png)
+	+ ![arch_pipe]({{ site.url
+	  }}/imgs/power_gating/look-ahead-architecture_pipeline.png)
 
 
