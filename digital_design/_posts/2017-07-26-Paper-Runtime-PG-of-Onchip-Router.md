@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Paper: Run-time PG of On-chip Router Using Look-ahead Routing
