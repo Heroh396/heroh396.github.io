@@ -1,8 +1,6 @@
-
 ---
 layout: post
-title:  Paper: Traffic-Aware Power-Gating Scheme for
-Network-On-Chip Routers
+title:  Paper: Traffic-Aware Power-Gating Scheme for Network-On-Chip Routers
 date:   2017-07-14 03:11
 teaser: This is a paper on power-gating project.
 image: https://heroh396.github.io/imgs/random_1.jpg
