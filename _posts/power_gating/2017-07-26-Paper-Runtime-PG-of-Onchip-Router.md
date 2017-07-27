@@ -2,7 +2,7 @@
 layout: post
 title:  "Paper: Run-time PG of On-chip Router Using Look-ahead Routing"
 subtitle: "A paper about power gating"
-date:   2017-07-14
+date:   2017-07-25
 categories: [lab]
 tags: [power gating, noc]
 permalink: /blogging/run-time-pg/
