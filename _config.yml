@@ -1,9 +1,9 @@
 # Site settings
-title: "Beegit - Content Production and Collaboration Blog"
-email: "mike@beegit.com"
-description: "The 'must read' blog for content managers. Let Beegit help you master the content production process."
+title: "Welcome to H3's blog"
+email: "heroh396@gmail.com"
+description: "This blog propose useful post from my knowledge."
 baseurl: ""
-url: "http://blog.beegit.com"
+url: "http://heroh396.github.io"
 
 # Build settings
 markdown: kramdown
