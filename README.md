@@ -1,4 +1,5 @@
-beegit.github.io
+heroh396.github.io
 ================
 
-Beegit's pubic blog – powered by Jekyll.
+
+Copyright from Beegit's pubic blog – powered by Jekyll.
