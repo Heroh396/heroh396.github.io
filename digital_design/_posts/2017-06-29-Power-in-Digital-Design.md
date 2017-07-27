@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  Research about the power in digital circuit
-date:   2017-06-29
-teaser: Back in my newsroom days, I would often be slogging away toward deadline while dreaming up a world where content production wasn’t so difficult. For the most part, we had a modern newsroom. We had freelance writers and staff members with mobile technology filing their stories from the field or office via a shared drive or email. But once we tried to put their raw content files into production, we faced a constant breakdown of the creaky content production processes of the day.
+date:   2017-06-29 03:26
+teaser: Introduction about power in digital circuit.
 image: https://heroh396.github.io/imgs/random_1.jpg
 author: heroh396
 comments: true
 redirect_from: "/buzz/2017/06/29/power-digital/"
 shortUrl: 
-
 ---
+
 Earth is a huge battery that has been charged up over billions of years via the energy of sunlight in the form of plant growth (Trái Đất là một chiếc pin khổng lồ được nạp đầy trong hàng tỷ năm qua từ năng lượng của mặt trời dưới dạng sự tăng trường của các loài động, thực vật)
 Nguồn cũng có thể được xem xét ở chế độ hoạt động, chế độ chờ và chế độ ngủ.  Năng lượng hoạt động là năng lượng tiêu thụ trong khi chip đang làm việc hữu
  ích.
