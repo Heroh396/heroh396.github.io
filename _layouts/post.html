@@ -28,25 +28,6 @@ layout: default
 <div class="container">
   <div class="col-md-8 col-md-offset-2 post-content">
       <div class="post-wrapper">
-          <article class="post-content">
-          <div class="post-wrapper-content">
-        	{{ content }}
-            {% if redirect_from %}
-            <div class="post-author">
-              <div class="post-author-details">
-				  Tags: {{post.redirect_from}}
-              </div>
-            </div>
-            {% endif %}
-        </div>
-      </article>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="col-md-8 col-md-offset-2 post-content">
-      <div class="post-wrapper">
         <header class="post-header">
           <!-- {% assign author = site.data.authors[page.author] %}
             <div class="borderline left"></div>
