@@ -6,7 +6,7 @@ teaser: This post shown the easiest method to install matlab in linux.
 image:  https://heroh396.github.io/imgs/random_2.png
 author: heroh396
 comments: true
-redirect_from:
+redirect_from: install, matlab, linux
 shortUrl: 
 ---
 File install matlab 2012b for unix 64 bit:
