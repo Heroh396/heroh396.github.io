@@ -14,7 +14,7 @@ Chào mọi người.
 
 Khi bắt đầu học lập trình, mọi người thường chỉ học ngôn ngữ lập trình như C, C++, Java, Python. Nếu sâu hơn, bạn sẽ học với Assembly, nó là ngôn ngữ lập trình bậc thấp, tuy nó khá khó để học và gần với ngôn ngữ máy nhưng ta vẫn dùng nó để lập trình phần mềm trên nền tảng phần cứng có sẵn.  
 
-Nhưng khi bắt đầu học điện tử, mình thấy còn có ngôn ngữ mô tả phần cứng VHDL, Verylog. Vậy nó là gì, có khác gì những ngôn ngữ còn lại. Hôm nay chúng ta sẽ tìm hiểu về nó nhé 😀 
+Nhưng khi bắt đầu học điện tử, mình thấy còn có ngôn ngữ mô tả phần cứng VHDL, Verilog. Vậy nó là gì, có khác gì những ngôn ngữ còn lại. Hôm nay chúng ta sẽ tìm hiểu về nó nhé 😀 
 
 Nếu chia rõ ràng thì sẽ là 2 loại ngôn ngữ riêng biệt: ngôn ngữ lập trình  và ngôn ngữ mô tả phần cứng.  
 
