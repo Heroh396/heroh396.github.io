@@ -31,4 +31,4 @@ Power consumption = dynamic switch power + static leakage power
 - Switch power : use (clk gating, operand isolation), smaller when scaled down
 - Leakage power : use (multi-threshold voltages, PG), increase
 Architecture and pipeline:
-- ![arch_pipe]({{ site.url }}/imgs/power_gating/look-ahead-architecture_pipeline.png)
+- ![arch_pipe]({{site.url}}/imgs/digital_design/look-ahead-arch_pipeline.png)
