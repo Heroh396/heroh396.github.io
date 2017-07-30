@@ -6,7 +6,7 @@ teaser: This is a paper in power-gating project.
 image: https://heroh396.github.io/imgs/typing_keyboard.jpg
 author: heroh396
 comments: true
-redirect_from: "/buzz/2017/07/26/look-agead-routing-pg/"
+redirect_from:
 shortUrl: 
 ---
 
@@ -31,4 +31,4 @@ Power consumption = dynamic switch power + static leakage power
 - Switch power : use (clk gating, operand isolation), smaller when scaled down
 - Leakage power : use (multi-threshold voltages, PG), increase
 Architecture and pipeline:
-- ![arch_pipe]({{site.url}}/imgs/digital_design/look-ahead-arch-pipeline.png)
+- ![arch_pipe](heroh396.github.io/imgs/digital_design/look-ahead-arch-pipeline.png)
