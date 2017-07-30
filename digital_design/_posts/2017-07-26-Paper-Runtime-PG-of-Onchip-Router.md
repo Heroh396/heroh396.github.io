@@ -13,11 +13,11 @@ shortUrl:
 ## Overview
 
 ### Concept
-run-time 		: thoi gian hoat dong
-look-ahead 	: nhin xa
-injection 	: su phun
-attractive solutions	: hap dan
-short-term sleep	: giac ngu ngan
+run-time 	: thoi gian hoat dong 
+look-ahead 	: nhin xa 
+injection 	: su phun 
+attractive solutions	: hap dan 
+short-term sleep	: giac ngu ngan 
 
 ### Abtract
 Purpose: sleep control method based on look-ahead routing that detects the arrival of packets two hops ahead
