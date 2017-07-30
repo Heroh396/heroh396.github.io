@@ -2,7 +2,7 @@
 layout: post
 title:  Installing Matlab 2012b in linux, unix 64 bit
 date:   2016-11-18 07:45
-teaser:
+teaser: This post shown the easiest method to install matlab in linux.
 image:  https://heroh396.github.io/imgs/random_2.png
 author: heroh396
 comments: true
@@ -23,7 +23,7 @@ Open terminal, enter the command:
 	cd /mnt
 	sudo ./install
 ``` 
-Install matlab by gui, check  install without internet, use this key:
+Install matlab by GUI, check  install without internet, use this key:
 
 -   54433-42422-42196-01350-12755-09842
   
@@ -31,15 +31,13 @@ Choose custom, change the directory become:
 
 -   home/your_user_name/matlab
    
-Next, active software with file matlab2012b_std.dat.
-If you can’t active your software, you don’t worry. be continue.
+Next, active software with file matlab2012b_std.dat. 
+If you can’t active your software, you don’t worry, be continue. 
 After installed matlab, open terminal and enter the command:
-
 ```
 	cd /home/your_user_name/matlab/bin
 	sudo ./matlab
 ```
-Active software with file matlab2012b_std.dat
-	  
+Active software with file matlab2012b_std.dat. 
 This is my result. :D
 ![Matlab result](https://heroh396.github.io/imgs/linux/matlab_result-1024x576.png)
