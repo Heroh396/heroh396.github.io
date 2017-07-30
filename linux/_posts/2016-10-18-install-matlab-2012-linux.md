@@ -42,5 +42,4 @@ After installed matlab, open terminal and enter the command:
 Active software with file matlab2012b_std.dat
 	  
 This is my result :tada:
-![Matlab result](https://heroh396.github.io
-../../imgs/linux/matlab_result-1024x576.png)
+![Matlab result](https://heroh396.github.io/imgs/linux/matlab_result-1024x576.png)
