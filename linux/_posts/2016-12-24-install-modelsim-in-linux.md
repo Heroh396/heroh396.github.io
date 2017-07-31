@@ -29,12 +29,9 @@ Today, I will share you how to install ModelSim and fix some error in Linux.  Mo
 	./vsim
 ``` 
 
-
 If you have error, I don’t worry. I will help you now:
 # Error
-
 _./vsim: No such file or directory_
-
 -   I investigated further on internet and found that I require 386-32 bit libraries for Ubuntu since the Modelsim seems to be 32-bit. So I took the followings steps on the Linux command prompt:
 ```
 	sudo dpkg --add-architecture i386 
@@ -42,13 +39,11 @@ _./vsim: No such file or directory_
 	sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 
 	sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 
 ```
-  
 _libXft.so.2: cannot open shared object file_
 -   So I took the following steps:
 ```
   sudo  apt-get install libxft2 libxft2:i386 lib32ncurses5
 ```
-
 _libXext.so.6: cannot open shared object file. libXext.so.6 not found_
 -   Continues following steps:
 ```
