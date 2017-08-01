@@ -48,9 +48,9 @@ Look-Ahead Sleep Control on Deterministic Routing
 -	Routing algorithm phân loại thành:
 	+	determistic (cố định)
 	+	adaptive (thích nghi)
-	+	This paper talk about dermistic routing
+	+	This paper talk about dermistic routing 
 -   ![request signal]({{ site.url }}/imgs/digital_design/request_signal_in_look-ahead-paper.png)
 -   Call South channel of router 1 is "target". The target channel monitor (quan ly) request signal from input channel in router 3, 5, 7 to make decision. 
 -   The *colored input channel* assert (xac nhan) their request signal for the target channel when packet destined for router 1. 
--  Critical path twice long (dai gap 2 lan), so can using 2 clock cycle to
-   tranfer for target channel, khi do co the phat hien som hon 4 chu ki 
+-   Critical path twice long (dai gap 2 lan), so can using 2 clock cycle to tranfer for target channel, khi do co the phat hien som hon 4 chu ki 
+-   
