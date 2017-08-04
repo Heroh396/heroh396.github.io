@@ -1,9 +1,9 @@
 # Site settings
-title: "Welcome to H3's blog"
-email: "heroh396@gmail.com"
+title: "Welcome to the blog"
+email: "hhhung96@gmail.com"
 description: "This blog propose useful post from my knowledge."
 baseurl: ""
-url: "http://heroh396.github.io"
+url: "http://uetvn.github.io"
 
 # Build settings
 markdown: kramdown
