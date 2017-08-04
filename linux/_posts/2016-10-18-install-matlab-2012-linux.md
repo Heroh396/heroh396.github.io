@@ -3,7 +3,7 @@ layout: post
 title:  Installing Matlab 2012b in linux, unix 64 bit
 date:   2016-11-18 07:45
 teaser: This post shown the easiest method to install matlab in linux.
-image:  https://heroh396.github.io/imgs/random_2.png
+image:  /imgs/random_2.png
 author: heroh396
 comments: true
 redirect_from: install, matlab, linux
@@ -40,4 +40,4 @@ After installed matlab, open terminal and enter the command:
 ```
 Active software with file matlab2012b_std.dat. 
 This is my result. :D
-![Matlab result](https://heroh396.github.io/imgs/linux/matlab_result-1024x576.png)
+![Matlab result](/imgs/linux/matlab_result-1024x576.png)

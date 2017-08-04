@@ -3,7 +3,7 @@ layout: post
 title:  Paper Run-time Power-Gating of On-chip Router Using Look-ahead Routing
 date:   2017-07-26 10:41
 teaser: This is a paper in power-gating project.
-image: https://heroh396.github.io/imgs/typing_keyboard.jpg
+image:  /imgs/typing_keyboard.jpg
 author: heroh396
 comments: true
 redirect_from:
@@ -33,7 +33,7 @@ Power consumption = dynamic switch power + static leakage power
 -	Leakage power : use (multi-threshold voltages, PG), increase
 
 Architecture and pipeline:
-![arch_pipe](https://heroh396.github.io/imgs/digital_design/look-ahead-arch-pipeline.png)
+![arch_pipe](/imgs/digital_design/look-ahead-arch-pipeline.png)
 
 Look-ahead routing
 -	Trong trường hợp router thông thường, 1 kênh output tại router hop thứ i được chọn bởi RC stage của chính router đó (router hop i). Fig 2 
@@ -49,7 +49,7 @@ Look-Ahead Sleep Control on Deterministic Routing
 	+	determistic (cố định)
 	+	adaptive (thích nghi)
 	+	This paper talk about dermistic routing 
--   ![request signal]({{ site.url }}/imgs/digital_design/request_signal_in_look-ahead-paper.png)
+-   ![request signal](/imgs/digital_design/request_signal_in_look-ahead-paper.png)
 -   Call South channel of router 1 is "target". The target channel monitor (quan ly) request signal from input channel in router 3, 5, 7 to make decision. 
 -   The *colored input channel* assert (xac nhan) their request signal for the target channel when packet destined for router 1. 
 -   Critical path twice long (dai gap 2 lan), so can using 2 clock cycle to tranfer for target channel, khi do co the phat hien som hon 4 chu ki 

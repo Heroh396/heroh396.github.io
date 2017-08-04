@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  !!FILE
-date:   
+date: 2018-01-01 11:55
 teaser:
-image: https://heroh396.github.io/imgs/random_1.jpg
+image: ../../imgs/
 author: heroh396
 comments: true
 redirect_from:

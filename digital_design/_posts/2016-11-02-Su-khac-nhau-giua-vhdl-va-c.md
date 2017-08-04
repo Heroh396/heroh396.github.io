@@ -3,7 +3,7 @@ layout: post
 title:  SỰ KHÁC NHAU GIỮA VHDL VÀ C/C++ 
 date:   2016-11-02 11:57
 teaser: Hôm nay mình sẽ làm rõ sự khác nhau cơ bản giữa VDHL và C/C++
-image:  https://heroh396.github.io/imgs/typing_keyboard_2.jpg
+image:  /imgs/typing_keyboard_2.jpg
 author: heroh396
 comments: true
 redirect_from:
