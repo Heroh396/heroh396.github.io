@@ -13,20 +13,21 @@ shortUrl:
 ## Overview
 
 ### Name
-Sơ đồ power-gating nhận biết sự lưu thông cho NOC routers
-The proposed design intelligently invokes the power-gating signals to the router buffers based on the statistical estimation of the traffic inter-arrival times. (Thiết kế đề xuất thông minh gọi tín hiệu power-gating cho router buffers dựa trên ước lượng thống kế của các lần đến...)
-Overhead: chi phi phu
-Idle state: trạng thái nhàn rỗi
-Inter-arrival time: khoang thoi gian giua cac lan den
+Sơ đồ power-gating nhận biết sự lưu thông cho NOC routers. 
+The proposed design intelligently invokes the power-gating signals to the router buffers based on the statistical estimation of the traffic inter-arrival times. (Thiết kế đề xuất thông minh gọi tín hiệu power-gating cho router buffers dựa trên ước lượng thống kế của các lần đến...). 
+
+Overhead: chi phi phu. 
+Idle state: trạng thái nhàn rỗi. 
+Inter-arrival time: khoang thoi gian giua cac lan den.
 
 ### Abtract
-Thiết kế inter-connection network cải thiện hiệu suất multi-core system nhưng tăng cost của power thêm vào và tăng độ phức tạp của thiết kế.
-Power gating là giải pháp để giảm static power, nhưng nó có delay và power overhead có thể gây giảm hiệu suất nếu ko đồng bộ traffic flow.
-Bài báo giới thiệu technique tối ưu hóa power-gating của router input buffers bằng sử dụng lược đồ learning để đoán lưu lượng truy cập tương lai.
-- Trên cơ sở sự ước lượng thống kê of các traffic inter-arrivel times (thời gian lưu thông của các lần đến)
-Đồng bộ hóa các tín hiệu điều khiển bằng điện với lưu lượng truy cập đến sẽ giảm đáng kể điện năng gây ra do: độ trễ thức dậy bắt buộc để định tuyến traffic arrival ngay lâp tức và mức tiêu thụ năng lượng tĩnh do kéo dài trạng thái nhàn rỗi trong sự dự đoán xuất hiện trong tương lai.
-Result: average 25% improvement in static power and it reduces the average packet latency by 35% comparison to basic power-gating.
-- Overhead of power-gating decrease 41% compared to [1]
+Thiết kế inter-connection network cải thiện hiệu suất multi-core system nhưng tăng cost của power thêm vào và tăng độ phức tạp của thiết kế. 
+Power gating là giải pháp để giảm static power, nhưng nó có delay và power overhead có thể gây giảm hiệu suất nếu ko đồng bộ traffic flow. 
+Bài báo giới thiệu technique tối ưu hóa power-gating của router input buffers bằng sử dụng lược đồ learning để đoán lưu lượng truy cập tương lai. 
+- Trên cơ sở sự ước lượng thống kê of các traffic inter-arrivel times (thời gian lưu thông của các lần đến). 
+Đồng bộ hóa các tín hiệu điều khiển bằng điện với lưu lượng truy cập đến sẽ giảm đáng kể điện năng gây ra do: độ trễ thức dậy bắt buộc để định tuyến traffic arrival ngay lâp tức và mức tiêu thụ năng lượng tĩnh do kéo dài trạng thái nhàn rỗi trong sự dự đoán xuất hiện trong tương lai. 
+Result: average 25% improvement in static power and it reduces the average packet latency by 35% comparison to basic power-gating. 
+- Overhead of power-gating decrease 41% compared to [1] 
 
 
 ## Feature
