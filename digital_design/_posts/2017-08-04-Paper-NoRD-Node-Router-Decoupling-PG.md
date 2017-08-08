@@ -18,7 +18,7 @@ shortUrl:
 
 NoRD: Node-Router Decoupling (canh ly). 
 Reason of PG problem: `the dependence between the node and route` - any packet (sent, received or forwarded) must wake up the router before being transferred, thus breaking the potentially long idle period into fragmented intervals. 
-The simulation shows that directly applying conventional power-gating techniques would cause frequent state-transitions and significant energy and performance overhead.
+The simulation shows that directly applying conventional power-gating techniques would cause frequent state-transitions and significant energy and performance overhead. 
 In this paper,we propose NoRD (Node-Router Decoupling), a novel power-aware on-chip network approach that provides for power-gating bypass to decouple the node’s ability for transferring packets from the powered-on/off status of the associated router, thereby maximizing the length of router idle periods. 
 Fundamentable problem of PG:
 1. intermittent packet arrivals may cause a large number of idle periods to fall below the breakeven time needed to compensate for power-gating overhead, reducing the opportunity to apply power-gating techniques usefully.
