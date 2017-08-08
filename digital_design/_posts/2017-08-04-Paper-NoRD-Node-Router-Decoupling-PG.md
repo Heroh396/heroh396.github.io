@@ -11,7 +11,7 @@ shortUrl:
 ---
 
 # Data
-* [Paper link](http://ieeexplore.ieee.org/document/6493626/) 
+* [Paper](http://ieeexplore.ieee.org/document/6493626/) 
 * [Slide](http://slideplayer.com/slide/4703446/) 
 
 # Intro
