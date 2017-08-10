@@ -42,13 +42,12 @@ layout: default
             {% if page.shortUrl != null %}
                 {% assign url = page.shortUrl %}
             {% endif %}
+            {% include social-share.html%}
         </header>
-
         <article class="post-content">
           <div class="post-wrapper-content">
         	{{ content }}
             {% include signup-block.html %}
-            {% include social-share.html%}
             {% if author %}
             <div class="post-author">
               <div class="post-author-image">
