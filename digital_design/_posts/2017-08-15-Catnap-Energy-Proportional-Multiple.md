@@ -23,11 +23,11 @@ Result:
 - An average performance cost of about 5%
 
 Question:
-- Why the title mentions energy but the result only considers _power_ and _cost_.
+- Why the title mentions energy but the result only considers *power* and *cost*.
 
 # Intro
 
-An on-chip network is _energy-proportional_ if it consumes power that is proportional to the network demand and has insignificant impact on network latency. 
+An on-chip network is *energy-proportional* if it consumes power that is proportional to the network demand and has insignificant impact on network latency. 
 
 Motivation:  a few phases that consume peak network bandwidth, and other computationally intensive phases that inject few packets into the network. Thus, to build an energy proportional many-core processor, it is important to design energy proportional on-chip networks.
 
@@ -35,7 +35,8 @@ Motivation:  a few phases that consume peak network bandwidth, and other computa
 ---
 # Vocabulary
 
-- ensure /in'ʃuə/	: đảm bảo
-- observe /əbˈzərv/	: quan sát 
-- attractive /əˈtraktiv/	: hấp dẫn
+- proportional 	/prəˈpôrSH(ə)n(ə)l/	: cân bằng, tỉ lệ, tương xứng
+- ensure 		/in'ʃuə/			: đảm bảo
+- observe 		/əbˈzərv/			: quan sát 
+- attractive 	/əˈtraktiv/			: hấp dẫn
 
