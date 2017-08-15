@@ -10,7 +10,7 @@ redirect_from:
 shortUrl: 
 ---
 
-# ABSTRACT
+# Abtract 
 
 Title: Catnap (a short, light sleep): Năng lượng tỉ lệ với đa NOC
 
@@ -25,14 +25,14 @@ Result:
 Question:
 - Why the title mentions energy but the result only considers _power_ and _cost_.
 
-# INTRO
+# Intro
 
 An on-chip network is _energy-proportional_ if it consumes power that is proportional to the network demand and has insignificant impact on network latency. 
 
 
 
 ---
-# VOCABULARY
+# Vocabulary
 
 - ensure /in'ʃuə/	: đảm bảo
 - observe /əbˈzərv/	: quan sát 
