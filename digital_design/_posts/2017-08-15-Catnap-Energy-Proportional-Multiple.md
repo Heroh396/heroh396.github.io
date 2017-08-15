@@ -10,7 +10,7 @@ redirect_from:
 shortUrl: 
 ---
 
-# INTRO
+# ABSTRACT
 
 Title: Catnap (a short, light sleep): Năng lượng tỉ lệ với đa NOC
 
@@ -18,15 +18,22 @@ Main contribution:
 - Catnap architecture consists of synergistic subnet selection and powergating policies.
 - Catnap maximizes the number of consecutive idle cycles in a router, while avoiding performance loss due to overloading a subnet.
 
+Result:
+- Average network power could be 44% lower than a bandwidth equivalent single-network design
+- An average performance cost of about 5%
+
+Question:
+- Why the title mentions energy but the result only considers _power_ and _cost_.
+
+# INTRO
+
+An on-chip network is _energy-proportional_ if it consumes power that is proportional to the network demand and has insignificant impact on network latency. 
+
 
 
 ---
 # VOCABULARY
 
 - ensure /in'ʃuə/	: đảm bảo
-
 - observe /əbˈzərv/	: quan sát 
-
 - attractive /əˈtraktiv/	: hấp dẫn
-
-- 
