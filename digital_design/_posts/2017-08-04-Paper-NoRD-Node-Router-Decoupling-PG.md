@@ -39,18 +39,17 @@ Main contributation:
 - VC: virtual channel
 - confine: gioi han
 
-- mitigate: diu nhe
+- mitigate: 	diu nhe
 - sufficiently: du, thich dang
-- compensate: den bu
-- potential: tiem luc
-- decouple: tach roi
-- bypass: bo qua
-- ability: nang luc
-- associate: lien ket
-- critical: quan trong, gioi han
-- draw: loi keo
-- impact: tac dong
-- cumulative: tich luy
-- proof: su chung minh
+- compensate: 	den bu
+- potential: 	tiem luc
+-- associate:	lien ket
+- critical: 	quan trong, gioi han
+- cumulative: 	tich luy decouple: 	tach roi
+- bypass: 	bo qua
+- ability: 	nang luc
+- proof: 	su chung minh
+- draw:		loi keo
+- impact: 	tac dong
+- iscas: 	the conference
 
-- iscas: the conference

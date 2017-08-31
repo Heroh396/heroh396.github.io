@@ -39,4 +39,5 @@ Motivation:  a few phases that consume peak network bandwidth, and other computa
 - ensure 		/in'ʃuə/			: đảm bảo
 - observe 		/əbˈzərv/			: quan sát 
 - attractive 	/əˈtraktiv/			: hấp dẫn
+- evaluation 	/əˌvalyəˈwāSH(ə)n/	: đánh giá
 
