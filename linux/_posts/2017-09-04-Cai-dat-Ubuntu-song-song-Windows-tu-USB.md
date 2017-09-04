@@ -127,6 +127,4 @@ english](https://askubuntu.com/questions/88384/how-can-i-repair-grub-how-to-get-
 
 - [Cách cài Ubuntu song song windows 7, 8 - blogtinhoc](http://blogtinhoc.vn/cach-cai-ubuntu-14-04-12-04-song-song-voi-windows-7-8.html).
 - [How can I dual-boot Windows 10 and Ubuntu on a UEFI HP notebook? - askubuntu](https://askubuntu.com/questions/666631/how-can-i-dual-boot-windows-10-and-ubuntu-on-a-uefi-hp-notebook).
-- [Check uefi or
-  legacy?](https://www.eightforums.com/tutorials/29504-bios-mode-see-if-windows-boot-uefi-legacy-mode.html).
--
+- [Check uefi or legacy?](https://www.eightforums.com/tutorials/29504-bios-mode-see-if-windows-boot-uefi-legacy-mode.html).
