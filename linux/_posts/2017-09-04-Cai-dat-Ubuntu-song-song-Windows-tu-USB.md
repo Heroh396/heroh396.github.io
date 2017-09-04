@@ -12,6 +12,7 @@ shortUrl:
 *Note:* Bài viết được cập nhật thường xuyên. (Updated on Mon 04 Sep 2017)
 
 # Cài đặt
+---
 
 ## Tạo Usb ubuntu boot
 
@@ -69,7 +70,7 @@ Lưu ý rằng nếu bạn check được Windows đang sử dụng dùng Legacy
 boot phải chạy với cùng kiểu như vậy. Cắm usb vào máy tính cần cài Ubuntu, sau
 đó nhấn phím *Fx* để lựa chọn Menu boot. (Phím *Fx* tùy thuộc vào từng dòng máy,
 có thể là F1, F2, F9, F12, Delete... bạn có thể tham khảo tại
-[*đây*](https://www.desertcrystal.com/bootkeys).). Sau đó lựa chọn tên của
+[đây](https://www.desertcrystal.com/bootkeys)). Sau đó lựa chọn tên của
 Ubuntu boot (chỉ chọn Legacy or UEFI phù hợp với loại định dạng ổ đĩa đã kiểm
 tra ở phần trước).
 
@@ -80,11 +81,11 @@ dạng UEFI. Trong trường hợp ta check được ở trên là Legacy, tiế
 usb như sau:
 Vào *BIOS* (khởi động lại máy bằng tổ hợp phím `Ctrl+Alt+Del` và ấn phím tắt F2, 
 F9... tuỳ vào từng dòng máy, tham khảo tại
-[*đây](https://www.desertcrystal.com/bootkeys).). Sau đó vào phần `Boot` và
+[đây](https://www.desertcrystal.com/bootkeys).). Sau đó vào phần `Boot` và
   tìm đến dòng `Boot Mode`. Tại đây ta chọn kiểu boot phù hợp với thiết bị, tiếp
   theo lưu lại và khởi động lại.
 
-![select boot bios](../../imgs/linux/select_boot_bios.jpg)
+![select boot bios](/imgs/linux/select_boot_bios.jpg)
 
 
 
@@ -100,6 +101,7 @@ cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể b
 
 
 # Một số lỗi thường gặp
+---
 
 ## Cài xong không vào được Ubuntu hoặc Windows
 
