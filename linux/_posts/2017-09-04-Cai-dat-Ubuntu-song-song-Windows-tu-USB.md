@@ -9,7 +9,7 @@ comments: true
 redirect_from:
 shortUrl: 
 ---
-*Note:* Bài viết được cập nhật thường xuyên. (Updated on Tue 05 Sep 2017 08:05:43 AM ICT)
+*Note:* Bài viết chủ yếu đi sâu vào những chú ý cơ bản khi cài đặt Ubuntu mà không hướng dẫn chi tiết cách cài đặt, các bạn có thể tham khảo link hướng dẫn chi tiết ở cuối bài. Bài viết sẽ được cập nhật thường xuyên. (Updated on Tue 05 Sep 2017 08:05:43 AM ICT)
 
 # Cài đặt
 ---
@@ -103,6 +103,16 @@ cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể b
 
 # Một số lỗi thường gặp
 ---
+
+### Không chuyển đổi sang chế độ Legacy hoặc UEFI trong BIOS
+
+Một số trường hợp không thể chuyển sang Legacy do đang bật chế độ Security Boot.
+Chúng ta có thể sửa lỗi này đơn giản bằng cách truy cập vào BIOS, vào `Boot`
+hoặc `Security` và tìm dòng `Security Boot Control` (hoặc đơn giản là `Security
+Boot`). Nếu dòng này đang `Enable` thì tắt bằng cách chuyển sang `Disable`, sau
+đó tìm Boot đúng với định dạng ổ đĩa và tiến hành cài đặt như bình thường.
+
+![disable security boot](/imgs/linux/disable_secure_boot.jpg)
 
 ### Cài xong không vào được Ubuntu hoặc Windows
 
