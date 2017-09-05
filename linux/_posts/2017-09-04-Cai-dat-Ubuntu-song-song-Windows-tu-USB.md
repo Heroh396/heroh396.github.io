@@ -2,19 +2,49 @@
 layout: post
 title: Cài đặt Ubuntu song song với Windows từ usb
 date: 2017-09-04 11:55
-teaser: Hôm nay mình sẽ hướng dẫn chi tiết cách cài Ubuntu song song Windows và một số lỗi cơ bản khi cài đặt
+teaser: Hôm nay mình sẽ hướng dẫn chi tiết cách cài Ubuntu song song
+Windows và một số lỗi cơ bản khi cài đặt
 image: /imgs/ubuntu.png
 author: heroh396
 comments: true
 redirect_from:
 shortUrl: 
 ---
-*Note:* Bài viết chủ yếu đi sâu vào những chú ý cơ bản khi cài đặt Ubuntu mà không hướng dẫn chi tiết cách cài đặt, các bạn có thể tham khảo link hướng dẫn chi tiết ở cuối bài. Bài viết sẽ được cập nhật thường xuyên. (Updated on Tue 05 Sep 2017 08:05:43 AM ICT)
 
-# Cài đặt
+### Mục lục
+
+[I. Mở đầu](#moDau)
+
+[II. Hướng dẫn cài đặt](#caiDat)
+- [1. Tạo Usb ubuntu boot](#taoUsbBoot)
+- [2. Phân vùng ổ đĩa](#phanVungODia)
+- [3. Tắt Fast startup (khởi động nhanh) trên Windows 10](#tatFastStartup)
+- [4. Kiểm tra định dạng ổ đĩa (UEFI hay Legacy)](#dinhGiangODia)
+- [5. Chạy usb boot](#chayUsbBoot)
+- [6. Cài ubuntu song song](#caiUbuntuSongSong)
+
+[III. Một số lỗi thường gặp](#motSoLoiThuongGap)
+- [1. Không đổi chuyển đổi sang chế độ Legacy hoặc UEFI trong
+  BIOS](#khongTheChuyenDoiCheDo)
+- [2. Cài xong không vào được Ubuntu hoặc Windows](#khongVaoDuocUbuntu)
+[IV. Đường dẫn](#duongDan)
+
+
+
+<a name="moDau"></a>
+# I. Mở đầu
+
+ Bài viết chủ yếu đi sâu vào những chú ý cơ bản khi cài đặt Ubuntu mà
+không hướng dẫn chi tiết cách cài đặt, các bạn có thể tham khảo link hướng dẫn
+chi tiết ở cuối bài. Bài viết sẽ được cập nhật thường xuyên. (Updated on
+Tue 05 Sep 2017 08:05:43 AM ICT)
+
+<a name="caiDat"></a>
+# II. Hướng dẫn cài đặt
 ---
 
-### Tạo Usb ubuntu boot
+<a name="taoUsbBoot"></a>
+### 1. Tạo Usb ubuntu boot
 
 Tải phiên bản Ubuntu mới nhất tại
 [đây](https://www.ubuntu.com/download/desktop).
@@ -35,7 +65,8 @@ Windows cho bất kì máy tính nào.
 
 [Video hướng dẫn.](https://www.youtube.com/watch?v=FfEbsf06IwU)
 
-### Phân vùng ổ đĩa
+<a name="phanVungODia"></a>
+### 2. Phân vùng ổ đĩa
 
 Trên hệ điều hành Windows, nhấn `Windows+R` hoặc vào thanh tìm kiếm rồi gõ
 `diskmgmt.msc` và nhấn `Enter`. Sau đó cửa sổ Disk Management hiện lên, bây giờ
@@ -47,7 +78,8 @@ thoải mái mình sử dụng 30-50 GB.
 
 [Video hướng dẫn.](https://www.youtube.com/watch?v=9fhawrUcC84)
 
-### Tắt Fast startup (khởi động nhanh) trên Windows 10
+<a name="tatFastStartup"></a>
+### 3. Tắt Fast startup (khởi động nhanh) trên Windows 10
 
 Nếu sử dung Windows 10 song song Ubuntu thì mình khuyến nghị tắt Fast Startup để
 tránh xung đột. Vào thanh tìm kiếm và gõ `Control panel` và nhấn `Enter`. Trong Control panel
@@ -58,14 +90,16 @@ check vào ô `Turn on fast startup (Recommended)` và lưu lại.
 [Video hướng dẫn.](https://www.youtube.com/watch?v=4DY8xY3V6I0)
 
 
-### Kiểm tra định dạng ổ đĩa (UEFI hay Legacy)
+<a name="dinhGiangODia"></a>
+### 4. Kiểm tra định dạng ổ đĩa (UEFI hay Legacy)
 
 Nhấn `Windows + R`, nhập `msinfo32` và nhấn `Enter`. Trong cửa sổ System
 Information, tìm dòng `BIOS Mode` và kiểm tra chế độ là `Legacy` hay `UEFI`.
 
 ![uefi or legacy](/imgs/linux/uefi_legacy.jpg)
 
-### Chạy usb boot
+<a name="chayUsbBoot"></a>
+### 5. Chạy usb boot
 
 Lưu ý rằng nếu bạn check được Windows đang sử dụng dùng Legacy hay UEFI thì usb
 boot phải chạy với cùng kiểu như vậy. Cắm usb vào máy tính cần cài Ubuntu, khởi
@@ -89,8 +123,8 @@ F9... tuỳ vào từng dòng máy, tham khảo tại
 ![select boot bios](/imgs/linux/select_boot_bios.jpg)
 
 
-
-### Cài ubuntu song song
+<a name="caiUbuntuSongSong"></a>
+### 6. Cài ubuntu song song
 
 Mình không hướng dẫn chi tiết vì các link đều ghi rõ ràng rồi. Có một lưu ý là
 nếu máy tính Ram >= 8 GB thì không cần thiết tạo phân vùng Swap, còn nếu Ram < 8
@@ -101,18 +135,23 @@ cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể b
 [Hướng dẫn chi tiết.](http://tuong.me/cach-cai-dat-ubuntu-song-song-windows/)
 
 
-# Một số lỗi thường gặp
+<a name="motSoLoiThuongGap"></a>
+# III. Một số lỗi thường gặp
 ---
 
-### Không chuyển đổi sang chế độ Legacy hoặc UEFI trong BIOS
+<a name="khongTheChuyenDoiCheDo"></a>
+### 1. Không đổi chuyển đổi sang chế độ Legacy hoặc UEFI trong BIOS
 
 Một số trường hợp không thể chuyển sang Legacy do đang bật chế độ Security Boot.
-Chúng ta có thể sửa lỗi này đơn giản bằng cách truy cập vào BIOS, vào `Boot` hoặc `Security` và tìm dòng `Secure Boot Control` (hoặc đơn giản là `Secure Boot`). Nếu dòng này đang `Enable` thì tắt bằng cách chuyển sang `Disable`, sau
+Chúng ta có thể sửa lỗi này đơn giản bằng cách truy cập vào BIOS, vào `Boot` hoặc
+`Security` và tìm dòng `Secure Boot Control` (hoặc đơn giản là `Secure Boot`). 
+Nếu dòng này đang `Enable` thì tắt bằng cách chuyển sang `Disable`, sau
 đó tìm Boot đúng với định dạng ổ đĩa và tiến hành cài đặt như bình thường.
 
 ![disable security boot](/imgs/linux/disable_security_boot.jpg)
 
-### Cài xong không vào được Ubuntu hoặc Windows
+<a name="khongVaoDuocUbuntu"></a>
+### 2. Cài xong không vào được Ubuntu hoặc Windows
 
 Lỗi này thường là do Grub khởi động của Ubuntu không hoạt động chính xác.
 Ta có thể sửa lỗi này bằng công cụ `Boot Repair`. 
@@ -140,7 +179,8 @@ Lỗi này khá nguy hiểm khi bạn không thể truy cập cả ubuntu và wi
 -->
 
  
-# Đường dẫn
+<a name="duongDan"></a>
+# IV. Đường dẫn
 
 - [Cách cài Ubuntu song song windows 7, 8 - blogtinhoc.](http://blogtinhoc.vn/cach-cai-ubuntu-14-04-12-04-song-song-voi-windows-7-8.html)
 - [How can I dual-boot Windows 10 and Ubuntu on a UEFI HP notebook? - askubuntu.](https://askubuntu.com/questions/666631/how-can-i-dual-boot-windows-10-and-ubuntu-on-a-uefi-hp-notebook)
