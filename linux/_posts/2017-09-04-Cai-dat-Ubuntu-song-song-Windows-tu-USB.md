@@ -17,10 +17,10 @@ shortUrl:
 ## Tạo Usb ubuntu boot
 
 Tải phiên bản Ubuntu mới nhất tại
-[*đây*](https://www.ubuntu.com/download/desktop).
+[đây](https://www.ubuntu.com/download/desktop).
 
 Tải phần mềm Universal USB Install để tạo usb boot tại
-[*đây*](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/).
+[đây](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/).
 
 Sau khi tải xong, ta cài đặt phần mềm Universal USB Install vào máy tính. Chọn
 một usb tối thiếu 4 GB, cắm vào máy tính và chạy phần mềm Universal USB Install.
@@ -32,7 +32,7 @@ usb sử dụng làm boot.
 Sau khi phần mềm chạy xong, ta đã có 1 usb boot có thể cài
 Windows cho bất kì máy tính nào.
 
-[Video hướng dẫn](https://www.youtube.com/watch?v=FfEbsf06IwU).
+[Video hướng dẫn.](https://www.youtube.com/watch?v=FfEbsf06IwU)
 
 ## Phân vùng ổ đĩa
 
@@ -44,7 +44,7 @@ Nếu bạn cài Ubuntu để tìm hiểu cơ bản hoặc ổ đĩa chỉ còn 
 thiểu chúng ta tạo ra phân vùng 10 GB. Còn nếu cài Ubuntu để làm việc thì để
 thoải mái mình sử dụng 30-50 GB.
 
-[Video hướng dẫn](https://www.youtube.com/watch?v=9fhawrUcC84).
+[Video hướng dẫn.](https://www.youtube.com/watch?v=9fhawrUcC84)
 
 ## Tắt Fast startup (khởi động nhanh) trên Windows 10
 
@@ -54,7 +54,7 @@ chọn `Navigate to Power Options`. Nhấn vào `Choose what the power button do
 sau đó nhấn vào `Change settings that are currently unavailable`. Sau đó tắt
 check vào ô `Turn on fast startup (Recommended)` và lưu lại.
 
-[Video hướng dẫn](https://www.youtube.com/watch?v=4DY8xY3V6I0).
+[Video hướng dẫn.](https://www.youtube.com/watch?v=4DY8xY3V6I0)
 
 
 ## Kiểm tra định dạng ổ đĩa (UEFI hay Legacy)
@@ -68,7 +68,7 @@ Information, tìm dòng `BIOS Mode` và kiểm tra chế độ là `Legacy` hay 
 
 Lưu ý rằng nếu bạn check được Windows đang sử dụng dùng Legacy hay UEFI thì usb
 boot phải chạy với cùng kiểu như vậy. Cắm usb vào máy tính cần cài Ubuntu, sau
-đó nhấn phím *Fx* để lựa chọn Menu boot. (Phím *Fx* tùy thuộc vào từng dòng máy,
+đó nhấn phím **Fx** để lựa chọn Menu boot. (Phím **Fx** tùy thuộc vào từng dòng máy,
 có thể là F1, F2, F9, F12, Delete... bạn có thể tham khảo tại
 [đây](https://www.desertcrystal.com/bootkeys)). Sau đó lựa chọn tên của
 Ubuntu boot (chỉ chọn Legacy or UEFI phù hợp với loại định dạng ổ đĩa đã kiểm
@@ -79,7 +79,7 @@ tra ở phần trước).
 Ví dụ như hình ta thấy usb đang dùng UEFI, chỉphù hợp với hệ điều hành Windows
 dạng UEFI. Trong trường hợp ta check được ở trên là Legacy, tiến hành đổi kiểu
 usb như sau:
-Vào *BIOS* (khởi động lại máy bằng tổ hợp phím `Ctrl+Alt+Del` và ấn phím tắt F2, 
+Truy cập **BIOS** máy tính (khởi động lại máy bằng tổ hợp phím `Ctrl+Alt+Del` và ấn phím tắt F2, 
 F9... tuỳ vào từng dòng máy, tham khảo tại
 [đây](https://www.desertcrystal.com/bootkeys).). Sau đó vào phần `Boot` và
   tìm đến dòng `Boot Mode`. Tại đây ta chọn kiểu boot phù hợp với thiết bị, tiếp
@@ -97,7 +97,7 @@ GB thì tạo 1 phân vùng Swap dung lượng gấp đôi số Ram hiện tại
 Tạo phân vùng `/root` là bắt buộc, còn phân vùng `/home` có thể tạo để sau này
 cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể bỏ qua.
 
-[Hướng dẫn chi tiết](http://tuong.me/cach-cai-dat-ubuntu-song-song-windows/).
+[Hướng dẫn chi tiết.](http://tuong.me/cach-cai-dat-ubuntu-song-song-windows/)
 
 
 # Một số lỗi thường gặp
@@ -119,12 +119,12 @@ Sau đó sử dụng `Recomended Repair`.
 
 ![boot repair](/imgs/linux/boot_repair.png)
 
-[Video hướng dẫn](https://www.youtube.com/watch?v=bVx86VbRJkQ).
-[Một cách khác để sửa grub -
-english](https://askubuntu.com/questions/88384/how-can-i-repair-grub-how-to-get-ubuntu-back-after-installing-windows).
+[Video hướng dẫn.](https://www.youtube.com/watch?v=bVx86VbRJkQ)
+
+[Cách khác để sửa grub - english.](https://askubuntu.com/questions/88384/how-can-i-repair-grub-how-to-get-ubuntu-back-after-installing-windows)
 
 # Đường dẫn
 
-- [Cách cài Ubuntu song song windows 7, 8 - blogtinhoc](http://blogtinhoc.vn/cach-cai-ubuntu-14-04-12-04-song-song-voi-windows-7-8.html).
-- [How can I dual-boot Windows 10 and Ubuntu on a UEFI HP notebook? - askubuntu](https://askubuntu.com/questions/666631/how-can-i-dual-boot-windows-10-and-ubuntu-on-a-uefi-hp-notebook).
-- [Check uefi or legacy?](https://www.eightforums.com/tutorials/29504-bios-mode-see-if-windows-boot-uefi-legacy-mode.html).
+- [Cách cài Ubuntu song song windows 7, 8 - blogtinhoc.](http://blogtinhoc.vn/cach-cai-ubuntu-14-04-12-04-song-song-voi-windows-7-8.html)
+- [How can I dual-boot Windows 10 and Ubuntu on a UEFI HP notebook? - askubuntu.](https://askubuntu.com/questions/666631/how-can-i-dual-boot-windows-10-and-ubuntu-on-a-uefi-hp-notebook)
+- [Check uefi or legacy?](https://www.eightforums.com/tutorials/29504-bios-mode-see-if-windows-boot-uefi-legacy-mode.html)
