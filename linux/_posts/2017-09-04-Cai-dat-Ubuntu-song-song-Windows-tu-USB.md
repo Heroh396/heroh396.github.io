@@ -108,11 +108,11 @@ cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể b
 
 Một số trường hợp không thể chuyển sang Legacy do đang bật chế độ Security Boot.
 Chúng ta có thể sửa lỗi này đơn giản bằng cách truy cập vào BIOS, vào `Boot`
-hoặc `Security` và tìm dòng `Security Boot Control` (hoặc đơn giản là `Security
+hoặc `Security` và tìm dòng `Secure Boot Control` (hoặc đơn giản là `Secure
 Boot`). Nếu dòng này đang `Enable` thì tắt bằng cách chuyển sang `Disable`, sau
 đó tìm Boot đúng với định dạng ổ đĩa và tiến hành cài đặt như bình thường.
 
-![disable security boot](/imgs/linux/disable_secure_boot.jpg)
+![disable security boot](/imgs/linux/disable_security_boot.jpg)
 
 ### Cài xong không vào được Ubuntu hoặc Windows
 
