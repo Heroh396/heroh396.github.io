@@ -9,12 +9,12 @@ comments: true
 redirect_from:
 shortUrl: 
 ---
-*Note:* Bài viết được cập nhật thường xuyên. (Updated on Mon 04 Sep 2017)
+*Note:* Bài viết được cập nhật thường xuyên. (Updated on Tue 05 Sep 2017 08:05:43 AM ICT)
 
 # Cài đặt
 ---
 
-## Tạo Usb ubuntu boot
+### Tạo Usb ubuntu boot
 
 Tải phiên bản Ubuntu mới nhất tại
 [đây](https://www.ubuntu.com/download/desktop).
@@ -35,7 +35,7 @@ Windows cho bất kì máy tính nào.
 
 [Video hướng dẫn.](https://www.youtube.com/watch?v=FfEbsf06IwU)
 
-## Phân vùng ổ đĩa
+### Phân vùng ổ đĩa
 
 Trên hệ điều hành Windows, nhấn `Windows+R` hoặc vào thanh tìm kiếm rồi gõ
 `diskmgmt.msc` và nhấn `Enter`. Sau đó cửa sổ Disk Management hiện lên, bây giờ
@@ -47,7 +47,7 @@ thoải mái mình sử dụng 30-50 GB.
 
 [Video hướng dẫn.](https://www.youtube.com/watch?v=9fhawrUcC84)
 
-## Tắt Fast startup (khởi động nhanh) trên Windows 10
+### Tắt Fast startup (khởi động nhanh) trên Windows 10
 
 Nếu sử dung Windows 10 song song Ubuntu thì mình khuyến nghị tắt Fast Startup để
 tránh xung đột. Vào thanh tìm kiếm và gõ `Control panel` và nhấn `Enter`. Trong Control panel
@@ -58,14 +58,14 @@ check vào ô `Turn on fast startup (Recommended)` và lưu lại.
 [Video hướng dẫn.](https://www.youtube.com/watch?v=4DY8xY3V6I0)
 
 
-## Kiểm tra định dạng ổ đĩa (UEFI hay Legacy)
+### Kiểm tra định dạng ổ đĩa (UEFI hay Legacy)
 
 Nhấn `Windows + R`, nhập `msinfo32` và nhấn `Enter`. Trong cửa sổ System
 Information, tìm dòng `BIOS Mode` và kiểm tra chế độ là `Legacy` hay `UEFI`.
 
 ![uefi or legacy](/imgs/linux/uefi_legacy.jpg)
 
-## Chạy usb boot
+### Chạy usb boot
 
 Lưu ý rằng nếu bạn check được Windows đang sử dụng dùng Legacy hay UEFI thì usb
 boot phải chạy với cùng kiểu như vậy. Cắm usb vào máy tính cần cài Ubuntu, khởi
@@ -90,7 +90,7 @@ F9... tuỳ vào từng dòng máy, tham khảo tại
 
 
 
-## Cài ubuntu song song
+### Cài ubuntu song song
 
 Mình không hướng dẫn chi tiết vì các link đều ghi rõ ràng rồi. Có một lưu ý là
 nếu máy tính Ram >= 8 GB thì không cần thiết tạo phân vùng Swap, còn nếu Ram < 8
@@ -104,7 +104,7 @@ cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể b
 # Một số lỗi thường gặp
 ---
 
-## Cài xong không vào được Ubuntu hoặc Windows
+### Cài xong không vào được Ubuntu hoặc Windows
 
 Lỗi này thường là do Grub khởi động của Ubuntu không hoạt động chính xác.
 Ta có thể sửa lỗi này bằng công cụ `Boot Repair`. 
