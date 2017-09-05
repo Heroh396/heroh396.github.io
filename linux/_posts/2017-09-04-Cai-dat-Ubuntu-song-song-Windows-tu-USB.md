@@ -38,9 +38,10 @@ shortUrl:
 <a name="moDau"></a>
 # I. Mở đầu
 
- Bài viết chủ yếu đi sâu vào những chú ý cơ bản khi cài đặt Ubuntu mà
+Bài viết chủ yếu đi sâu vào những chú ý cơ bản khi cài đặt Ubuntu mà
 không hướng dẫn chi tiết cách cài đặt, các bạn có thể tham khảo link hướng dẫn
 chi tiết ở cuối bài. Bài viết sẽ được cập nhật thường xuyên.
+
 Cập nhật lần cuối tại Tue 05 Sep 2017 08:05:43 AM ICT.
 
 <a name="caiDat"></a>
