@@ -9,6 +9,7 @@ author: heroh396
 comments: true
 redirect_from:
 shortUrl: 
+
 ---
 
 ### Mục lục
@@ -16,6 +17,7 @@ shortUrl:
 [I. Mở đầu](#moDau)
 
 [II. Hướng dẫn cài đặt](#caiDat)
+
 - [1. Tạo Usb ubuntu boot](#taoUsbBoot)
 - [2. Phân vùng ổ đĩa](#phanVungODia)
 - [3. Tắt Fast startup (khởi động nhanh) trên Windows 10](#tatFastStartup)
@@ -24,9 +26,11 @@ shortUrl:
 - [6. Cài ubuntu song song](#caiUbuntuSongSong)
 
 [III. Một số lỗi thường gặp](#motSoLoiThuongGap)
+
 - [1. Không đổi chuyển đổi sang chế độ Legacy hoặc UEFI trong
   BIOS](#khongTheChuyenDoiCheDo)
 - [2. Cài xong không vào được Ubuntu hoặc Windows](#khongVaoDuocUbuntu)
+
 [IV. Đường dẫn](#duongDan)
 
 
@@ -36,12 +40,11 @@ shortUrl:
 
  Bài viết chủ yếu đi sâu vào những chú ý cơ bản khi cài đặt Ubuntu mà
 không hướng dẫn chi tiết cách cài đặt, các bạn có thể tham khảo link hướng dẫn
-chi tiết ở cuối bài. Bài viết sẽ được cập nhật thường xuyên. (Updated on
-Tue 05 Sep 2017 08:05:43 AM ICT)
+chi tiết ở cuối bài. Bài viết sẽ được cập nhật thường xuyên.
+Cập nhật lần cuối tại Tue 05 Sep 2017 08:05:43 AM ICT.
 
 <a name="caiDat"></a>
 # II. Hướng dẫn cài đặt
----
 
 <a name="taoUsbBoot"></a>
 ### 1. Tạo Usb ubuntu boot
@@ -137,7 +140,6 @@ cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể b
 
 <a name="motSoLoiThuongGap"></a>
 # III. Một số lỗi thường gặp
----
 
 <a name="khongTheChuyenDoiCheDo"></a>
 ### 1. Không đổi chuyển đổi sang chế độ Legacy hoặc UEFI trong BIOS
