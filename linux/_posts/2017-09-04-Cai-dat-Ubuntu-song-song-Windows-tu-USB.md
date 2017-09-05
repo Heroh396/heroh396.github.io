@@ -107,9 +107,7 @@ cài lại Ubuntu mà không mất dữ liệu cũ, phân vùng này có thể b
 ### Không chuyển đổi sang chế độ Legacy hoặc UEFI trong BIOS
 
 Một số trường hợp không thể chuyển sang Legacy do đang bật chế độ Security Boot.
-Chúng ta có thể sửa lỗi này đơn giản bằng cách truy cập vào BIOS, vào `Boot`
-hoặc `Security` và tìm dòng `Secure Boot Control` (hoặc đơn giản là `Secure
-Boot`). Nếu dòng này đang `Enable` thì tắt bằng cách chuyển sang `Disable`, sau
+Chúng ta có thể sửa lỗi này đơn giản bằng cách truy cập vào BIOS, vào `Boot` hoặc `Security` và tìm dòng `Secure Boot Control` (hoặc đơn giản là `Secure Boot`). Nếu dòng này đang `Enable` thì tắt bằng cách chuyển sang `Disable`, sau
 đó tìm Boot đúng với định dạng ổ đĩa và tiến hành cài đặt như bình thường.
 
 ![disable security boot](/imgs/linux/disable_security_boot.jpg)
@@ -134,9 +132,17 @@ Sau đó sử dụng `Recomended Repair`.
 
 [Cách khác để sửa grub - english.](https://askubuntu.com/questions/88384/how-can-i-repair-grub-how-to-get-ubuntu-back-after-installing-windows)
 
+
+<!--### Lỗi màn hình đen "error: unknown filesystem."
+
+![unknown filesystem](/imgs/linux/unknown_filesystem_error.jpg)
+Lỗi này khá nguy hiểm khi bạn không thể truy cập cả ubuntu và windows. 
+-->
+
  
 # Đường dẫn
 
 - [Cách cài Ubuntu song song windows 7, 8 - blogtinhoc.](http://blogtinhoc.vn/cach-cai-ubuntu-14-04-12-04-song-song-voi-windows-7-8.html)
 - [How can I dual-boot Windows 10 and Ubuntu on a UEFI HP notebook? - askubuntu.](https://askubuntu.com/questions/666631/how-can-i-dual-boot-windows-10-and-ubuntu-on-a-uefi-hp-notebook)
 - [Check uefi or legacy?](https://www.eightforums.com/tutorials/29504-bios-mode-see-if-windows-boot-uefi-legacy-mode.html)
+- [Repair GRUB: error: unknown filesystem - mintguide.](https://mintguide.org/system/186-repair-grub-error-unknown-filesystem-grub-rescue-in-linux-mint-pinguyos.html)
