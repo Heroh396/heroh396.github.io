@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  !!FILE
-date: 2018-01-01 11:55
+title: !!FILE
+date: !!DATE
 teaser:
 image: ../../imgs/
 author: heroh396
