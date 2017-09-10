@@ -43,13 +43,23 @@ Limitation of Mesh network :
 - PEs			:processing elements (PEs), in PEs, NIs, R
 
 - promise	/präməs/		: trien vong
-- mitigate 	/ˈmidəˌɡāt/		: make less severe, serious, or painful
+- mitigate 	[ˈmɪtɪɡeɪt]		: make less severe, serious, or painful
 - potential /pəˈten(t)SHəl/	: having or showing the capacity to become or develop into something in the future (tiem nang)
 - decouple 	/dēˈkəpəl/		: tach ra
-- degrade 	/dəˈɡrād/		: bien chat, giam sut
+
 - imperative /əmˈperədiv/	: bat buoc
 - devise 	/dəˈvīz/Submit	: phat minh ra, nghi ra
 - compensate /ˈkämpənˌsāt/	: bu dap
 - majority 	/məˈjôrədē/		: phan lon
+- express					: bieu dien
+- obtain 	[əbˈteɪn]		: dat duoc
+- scheme	[skiːm] 		: a plan or system for doing or organizing sth
+- process	[ˈproʊses] 		: a series of things that are done in order to achieve a
+  particular result
+- naive		 [naɪˈiːv]		: chat phac
+- approximate	[əˈprɒksɪmət]	: xap xi
+- /I/ with smile face, /i:/ not laugh (it vs eat)
+- figure	 [ˈfɪɡə(r)]		:  a number representing a particular amount, especially
+  one given in official information
 
 
