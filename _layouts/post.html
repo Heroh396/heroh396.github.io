@@ -49,6 +49,12 @@ layout: default
           <div class="post-wrapper-content">
         	{{ content }}
             {% include signup-block.html %}
+			{% if comment %}
+            <div class="post-comment">
+                {{ comment }}
+            </div>
+            {% endif %}
+
             {% if author %}
             <div class="post-author">
               <div class="post-author-image">
