@@ -3,7 +3,7 @@ title: "Welcome to the blog"
 email: "hhhung96@gmail.com"
 description: "This blog propose useful post from my knowledge."
 baseurl: ""
-url: "http://yoloh3.github.io"
+url: "https://yoloh3.github.io"
 
 # Build settings
 markdown: kramdown
