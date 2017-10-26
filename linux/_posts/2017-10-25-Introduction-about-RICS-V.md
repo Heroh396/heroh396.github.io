@@ -32,11 +32,9 @@ A cross-compiler is a compiler that runs on platform A (the host), but generates
 
 Ubuntu 14.04 and does not provide packages for MIPS. Luckily, Debian (which Ubuntu is based off of) does provide packages, and these packages are compatible with Ubuntu. Un-luckily, Debian does not support little-endian MIPS (mipsel). Lucky us once again, as a different Debian derivative, Embedded Debian (emdebian) does provide those packages.
 
-Mipsel : little-endian MIPS
 
-## Success version 
+### Success version 
 
-[Check available version](http://wiki.osdev.org/GCC_Cross-Compiler)
 
 Local machine: using gcc 4.9 (using "alternative gcc ubuntu")
 
@@ -44,4 +42,13 @@ Binutils: 2.24
 
 Gcc: 4.8.0
 
+
 # SystemC
+
+
+
+# Linked and nomenclature
+
+[Check available version between binutils and gcc.](http://wiki.osdev.org/GCC_Cross-Compiler)
+
+Mipsel : little-endian MIPS (debian-mipsel)
