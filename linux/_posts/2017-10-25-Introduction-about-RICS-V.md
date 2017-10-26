@@ -3,7 +3,7 @@ layout: post
 title: Introduction about RICS-V instruction set Architecture
 date: 2017-10-25 11:59
 teaser: Today I research about Gcc Cross-compiler. Who have been knowned about cross-compiler
-image: ../../imgs/
+image: /imgs/riscv.jpg
 author: heroh396
 comments: true
 redirect_from: http://wiki.osdev.org/GCC_Cross-Compiler
