@@ -45,7 +45,7 @@ Gcc: 4.8.0
 
 # SystemC
 
-![SystemC build](../../imgs/linux/systemc_build.gif]
+![SystemC build](/imgs/linux/systemc_build.gif]
 
 
 # Linked and nomenclature
