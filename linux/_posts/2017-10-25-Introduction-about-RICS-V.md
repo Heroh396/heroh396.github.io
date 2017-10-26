@@ -45,10 +45,13 @@ Gcc: 4.8.0
 
 # SystemC
 
+![SystemC build](../../imgs/linux/systemc_build.gif]
 
 
 # Linked and nomenclature
 
-[Check available version between binutils and gcc.](http://wiki.osdev.org/GCC_Cross-Compiler)
+[Check available version between binutils and gcc.](http://wiki.osdev.org/Cross-Compiler_Successful_Builds)
+
+[SystemC learning website.](http://www.asic-world.com/systemc/index.html)
 
 Mipsel : little-endian MIPS (debian-mipsel)
