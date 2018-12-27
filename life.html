@@ -20,14 +20,14 @@ layout: default
 {% endfor %}
 <div class="container">
   <div class="col-md-12">
-      <h2 class="posts-intro">Posts About Learning English</h2>
+      <h2 class="posts-intro">Posts About Life</h2>
   </div>
 </div>
 <div class="container">
 	<div class="col-md-12">
 	    <div class="posts">
 	        <div class="row">
-	            {% for post in site.categories.learning_english offset:1 %}
+	            {% for post in site.categories.life offset:1 %}
 	            {% include listpost.html p=post %}
 	            {% endfor %}
 	        </div>
