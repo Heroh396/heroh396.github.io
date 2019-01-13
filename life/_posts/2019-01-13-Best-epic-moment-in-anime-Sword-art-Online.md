@@ -27,14 +27,14 @@ It from one of the my favorite movies: Sword Art Online: Aincrad.
 Sword Art Online is a Japanese light novel series written by Reki Kawahara and
 illustrated by Abec. The series told about Kirito and Asuna characters as they
 play through various virtual reality MMORPG worlds.<br>
-<img width="460" height="300" src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png">
+<img width="460" height="300" src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png"><br>
 The Gleam Eyes was the boss of the 74th Floor in Sword Art Online.
 It was the first demon-type boss shown in the story
 and the only known boss that was defeated without a strategy meeting, with the
 Black Swordsman, Kirito, defeating it using «Dual Blades».<br>
 No need for waiting more, click the link below to enjoy the extremely awesome
 moments.<br>
-<video width="1000" controls>
+<video width="400" controls>
 <br><source src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4" type="video/mp4">
 <br>Your browser does not support HTML5 video.
 </video><br>
