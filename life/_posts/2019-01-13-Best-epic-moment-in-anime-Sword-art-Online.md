@@ -6,7 +6,7 @@ teaser: I want to share everyone about my best epic moment in anime. It is the f
 image: /imgs/life/anime/kirito_and_asuna.jpg
 author: heroh396
 comments: true
-shortUrl: 
+shortUrl:
 ---
 
 Hi everyone. today I want to share with you about the hobby.<br>
