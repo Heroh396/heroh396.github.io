@@ -18,27 +18,26 @@ Titan, Sword Art Online... Among them, there are some epic moment which make me
 unforgettable.  
 Do you remember the first time Songoku turn Super Saiyan when fighting with
 Frieza?  
-<p align="center">
-  <img width="460" height="300" src="/imgs/life/anime/goku_vs_frieza.jpg">
-</p>
-![Goku vs Frieza](/imgs/life/anime/goku_vs_frieza.jpg)  
+<img width="460" height="300" src="/imgs/life/anime/goku_vs_frieza.jpg">
 Or the fighting between Naruto vs Pain?  
-![Naruto vs Pain](/imgs/life/anime/naruto_vs_pain.jpg)  
+<img width="460" height="300" src="/imgs/life/anime/naruto_vs_pain.jpg">
+![Naruto vs Pain]()  
 However, the moment that make me most interesting is the fighting between
 "Kirito and the gleam eyes".  
 It from one of the my favorite movies: Sword Art Online: Aincrad.
 Sword Art Online is a Japanese light novel series written by Reki Kawahara and
 illustrated by Abec. The series told about Kirito and Asuna characters as they
 play through various virtual reality MMORPG worlds.  
-![Kirito vs the gleam eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png)  
+<img width="460" height="300" src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png">
 The Gleam Eyes was the boss of the 74th Floor in Sword Art Online.
 It was the first demon-type boss shown in the story
 and the only known boss that was defeated without a strategy meeting, with the
 Black Swordsman, Kirito, defeating it using «Dual Blades».  
 No need for waiting more, click the link below to enjoy the extremely awesome
 moments.  
+<p align="center">
 [![Sword art Online Kirito vs the Gleam Eyes](/imgs/start_video.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes")  
-```
+</p>
 
 ### Gửi các bạn (tiếng Việt :D)
 Chào mọi người. Hôm nay rảnh rảnh nên viết vài dòng về sở thích của mình.
@@ -55,7 +54,6 @@ lần vẫn thấy rùng mình.
 Để xem video các bạn click vào hình ảnh phía trên hoặc
 link nhé:
 [link](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4)  
-```
 
 ### 日本語
 みんなさん、こんにちは。  
