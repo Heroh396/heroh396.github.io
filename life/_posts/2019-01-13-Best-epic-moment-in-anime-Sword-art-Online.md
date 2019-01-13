@@ -9,36 +9,40 @@ comments: true
 redirect_from:
 shortUrl:
 ---
+
 ## English
-Hi everyone. today I want to share with you about my life. 
+<p>Hi everyone. today I want to share with you about my life.<br>
 My love is anime, I can spend hours watching anime, reading information about
 movies, discussing with people about my favorite movie, or just a time to wait
 for a new chap of anime.  I like from the legend animes as 7 dragon balls,
 Doraemon to the next generation's as Naruto, One piece, Death note, Attack on
-Titan, Sword Art Online... 
+Titan, Sword Art Online...<br>
 Among them, there are some epic moment which make me unforgettable.Do you
 remember the first time Songoku turn Super Saiyan when fighting with Frieza?
-![/imgs/life/anime/goku_vs_frieza.jpg](Goku vs Frieza) 
+![/imgs/life/anime/goku_vs_frieza.jpg](Goku vs Frieza)<br>
  Or the fighting between Naruto vs Pain? 
-![/imgs/life/anime/naruto_vs_pain.jpg](Naruto vs Pain) 
+![/imgs/life/anime/naruto_vs_pain.jpg](Naruto vs Pain)<br>
 However, the moment that make me most interesting is the fighting between
-*Kirito and the gleam eyes*. It from the anime: Sword Art Online: Aincrad, one
-of the my favorite movies. 
-You can click on the below image to watch video. Extramely awesome :D :D. 
-[![Sword art Online Kirito vs the Gleam Eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes"). 
+**Kirito and the gleam eyes**. It from the anime: Sword Art Online: Aincrad, one
+of the my favorite movies.<br>
+You can click on the below image to watch video. Extramely awesome :D :D.<br>
+[![Sword art Online Kirito vs the Gleam Eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes").</p>
+<br>
 
 ## Gửi các bạn
-Chào mọi người. Hôm nay rảnh rảnh nên viết vài dòng về sở thích của mình.
+<p>Chào mọi người. Hôm nay rảnh rảnh nên viết vài dòng về sở thích của mình.
 Mình rất thích xem anime, từ 7 viên ngọc rồng, doraemon cho đến naruto, one
-piece, death note, attack on titan... 
+piece, death note, attack on titan...<br>
 Và chắc chắn với những ai là fan của anime, chắc chắn sẽ có những khoảng khắc,
 những chi tiết để lại ấn tượng cực kì sâu đậm cho bản thân chúng ta. Đối với
 mình thì đó là trận chiến giữa Kirito-kun và The Gleam eyes trong bộ phim
-Sword Art Online (tên dịch sang tiếng Việt là Đao kiếm thần vực, tên củ chuối v~). 
+Sword Art Online (tên dịch sang tiếng Việt là Đao kiếm thần vực, tên củ chuối
+v~).<br>
 Một trận chiến tuyệt với từ hình ảnh, âm thanh đến hoàn cảnh tình huống,
 vui, sướng, bất ngờ, lo lắng đều có cả. Mình xem đi xem lại cảnh này bao nhiêu
 lần vẫn thấy rùng mình. Để xem video các bạn click vào hình ảnh phía trên hoặc
-link nhé: [/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4](Kirito vs the Gleam Eyes). 
+link nhé: [/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4](Kirito vs the Gleam Eyes).</p>
+<br>
 
 ## 日本語
 みんなさん、こんにちは。
