@@ -4,6 +4,8 @@ email: "heroh396@gmail.com"
 description: "I always want to share my feelling, my experience, my life. Above all, I want to make friends with everyone in the world."
 baseurl: ""
 url: "https://yoloh3.github.io"
+plugins:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
