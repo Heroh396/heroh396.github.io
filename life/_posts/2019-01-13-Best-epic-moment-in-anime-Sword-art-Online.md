@@ -21,7 +21,6 @@ Frieza?
 <img width="460" height="300" src="/imgs/life/anime/goku_vs_frieza.jpg">
 Or the fighting between Naruto vs Pain?  
 <img width="460" height="300" src="/imgs/life/anime/naruto_vs_pain.jpg">
-![Naruto vs Pain]()  
 However, the moment that make me most interesting is the fighting between
 "Kirito and the gleam eyes".  
 It from one of the my favorite movies: Sword Art Online: Aincrad.
@@ -35,9 +34,11 @@ and the only known boss that was defeated without a strategy meeting, with the
 Black Swordsman, Kirito, defeating it using «Dual Blades».  
 No need for waiting more, click the link below to enjoy the extremely awesome
 moments.  
-<p align="center">
-[![Sword art Online Kirito vs the Gleam Eyes](/imgs/start_video.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes")  
-</p>
+
+<video width="400" controls>
+  <source src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
 
 ### Gửi các bạn (tiếng Việt :D)
 Chào mọi người. Hôm nay rảnh rảnh nên viết vài dòng về sở thích của mình.
