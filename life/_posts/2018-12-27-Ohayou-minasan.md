@@ -3,7 +3,7 @@ layout: post
 title: おはよう　みんなさん! (Hello everyone!)
 date: 2018-12-27 11:29
 teaser:
-image: ../../imgs/life/jp/japan_fuji.jpg
+image: /imgs/life/jp/japan_fuji.jpg
 author: heroh396
 comments: true
 redirect_from: I currently live and work in Japan. Life in Japan gives me a lot of interesting feelings.
