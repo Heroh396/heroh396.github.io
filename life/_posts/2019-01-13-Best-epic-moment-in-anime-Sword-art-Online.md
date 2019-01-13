@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Best epic moment in anime: Sword Art Online
-date:   2019-01-13 15:13
-teaser: I want to share you my best epic moment in anime. It is the fighting bettwen Kirito-kun and The Gleam Eyes. You can watch this moment as attached full HD video.
-image:  /imgs/life/anime/kirito_and_asuna.jpg
+title: Best epic moment in anime (Kirito vs the Gleam Eyes)
+date: 2019-01-13 15:32
+teaser: I want to share everyone about my best epic moment in anime. It is the fighting between Kirito-kun and The Gleam Eyes in the Sword art Online's anime. You cant watch this moment as attached full HD video.
+image: /imgs/life/anime/kirito_and_asuna.jpg
 author: heroh396
 comments: true
 shortUrl: 
