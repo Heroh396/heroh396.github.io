@@ -19,14 +19,16 @@ Doraemon to the next generation's as Naruto, One piece, Death note, Attack on
 Titan, Sword Art Online...<br>
 Among them, there are some epic moment which make me unforgettable.Do you
 remember the first time Songoku turn Super Saiyan when fighting with Frieza?
-![Goku vs Frieza](/imgs/life/anime/goku_vs_frieza.jpg)<br>
+![Goku vs Frieza](/imgs/life/anime/goku_vs_frieza.jpg)
 Or the fighting between Naruto vs Pain?
-![Naruto vs Pain](/imgs/life/anime/naruto_vs_pain.jpg)<br>
+![Naruto vs Pain](/imgs/life/anime/naruto_vs_pain.jpg)
 However, the moment that make me most interesting is the fighting between
-**Kirito and the gleam eyes**. It from the anime: Sword Art Online: Aincrad, one
+*Kirito and the gleam eyes*. It from the anime: Sword Art Online: Aincrad, one
 of the my favorite movies.<br>
-You can click on the below image to watch video. Extramely awesome :D :D. 
-[![Sword art Online Kirito vs the Gleam Eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes").</p>
+You can click [here](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4) or the
+below image to watch video. Extramely awesome :D :D.<br>
+[![Sword art Online Kirito vs the Gleam Eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes")
+</p>
 #### Gửi các bạn
 <p>Chào mọi người. Hôm nay rảnh rảnh nên viết vài dòng về sở thích của mình.
 Mình rất thích xem anime, từ 7 viên ngọc rồng, doraemon cho đến naruto, one
@@ -40,7 +42,8 @@ Một trận chiến tuyệt với từ hình ảnh, âm thanh đến hoàn cả
 vui, sướng, bất ngờ, lo lắng đều có cả. Mình xem đi xem lại cảnh này bao nhiêu
 lần vẫn thấy rùng mình. Để xem video các bạn click vào hình ảnh phía trên hoặc
 link nhé:
-[Kirito vs the Gleam Eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4) .</p>
+[Kirito vs the Gleam Eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4)
+</p>
 #### 日本語
 みんなさん、こんにちは。
 私はアニメが大好きです。ドラえもんとかナルトとかソードアートオンライン。。。　その中で　もっと面白い時間が　あります。　
