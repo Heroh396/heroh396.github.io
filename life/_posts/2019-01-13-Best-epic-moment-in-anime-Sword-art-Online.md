@@ -18,6 +18,9 @@ Titan, Sword Art Online... Among them, there are some epic moment which make me
 unforgettable.  
 Do you remember the first time Songoku turn Super Saiyan when fighting with
 Frieza?  
+<p align="center">
+  <img width="460" height="300" src="/imgs/life/anime/goku_vs_frieza.jpg">
+</p>
 ![Goku vs Frieza](/imgs/life/anime/goku_vs_frieza.jpg)  
 Or the fighting between Naruto vs Pain?  
 ![Naruto vs Pain](/imgs/life/anime/naruto_vs_pain.jpg)  
@@ -35,7 +38,7 @@ Black Swordsman, Kirito, defeating it using «Dual Blades».
 No need for waiting more, click the link below to enjoy the extremely awesome
 moments.  
 [![Sword art Online Kirito vs the Gleam Eyes](/imgs/start_video.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes")  
-
+```
 
 ### Gửi các bạn (tiếng Việt :D)
 Chào mọi người. Hôm nay rảnh rảnh nên viết vài dòng về sở thích của mình.
@@ -52,7 +55,7 @@ lần vẫn thấy rùng mình.
 Để xem video các bạn click vào hình ảnh phía trên hoặc
 link nhé:
 [link](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4)  
-
+```
 
 ### 日本語
 みんなさん、こんにちは。  
