@@ -22,13 +22,22 @@ Frieza?
 Or the fighting between Naruto vs Pain?  
 ![Naruto vs Pain](/imgs/life/anime/naruto_vs_pain.jpg)  
 However, the moment that make me most interesting is the fighting between
-__Kirito and the gleam eyes__. It from the anime: Sword Art Online: Aincrad, one
-of the my favorite movies.  
-[![Sword art Online Kirito vs the Gleam Eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes")
-*Note:* You can click [here](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4)
-or the upper image for watching video full HD. Extramely awesome :D :D.  
+"Kirito and the gleam eyes".  
+It from one of the my favorite movies: Sword Art Online: Aincrad.
+Sword Art Online is a Japanese light novel series written by Reki Kawahara and
+illustrated by Abec. The series told about Kirito and Asuna characters as they
+play through various virtual reality MMORPG worlds.  
+![Kirito vs the gleam eyes](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png)  
+The Gleam Eyes was the boss of the 74th Floor in Sword Art Online.
+It was the first demon-type boss shown in the story
+and the only known boss that was defeated without a strategy meeting, with the
+Black Swordsman, Kirito, defeating it using «Dual Blades».  
+No need for waiting more, click the link below to enjoy the extremely awesome
+moments.  
+[![Sword art Online Kirito vs the Gleam Eyes](/imgs/start_video.png)](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4 "Sword art Online Kirito vs the Gleam Eyes")  
 
-##### Gửi các bạn (tiếng Việt :D)
+
+### Gửi các bạn (tiếng Việt :D)
 Chào mọi người. Hôm nay rảnh rảnh nên viết vài dòng về sở thích của mình.
 Mình rất thích xem anime, từ 7 viên ngọc rồng, doraemon cho đến naruto, one
 piece, death note, attack on titan...  
@@ -42,9 +51,10 @@ vui, sướng, bất ngờ, lo lắng đều có cả. Mình xem đi xem lại c
 lần vẫn thấy rùng mình.  
 Để xem video các bạn click vào hình ảnh phía trên hoặc
 link nhé:
-[link](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4)
+[link](/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4)  
 
-##### 日本語
+
+### 日本語
 みんなさん、こんにちは。  
 私はアニメが大好きです。ドラえもんとかナルトとかソードアートオンライン。。。  
 その中で　もっと面白い時間が　あります。  
