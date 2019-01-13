@@ -30,15 +30,6 @@ layout: default
   <div class="col-md-8 col-md-offset-2 post-content">
       <div class="post-wrapper">
         <header class="post-header">
-          <!-- {% assign author = site.data.authors[page.author] %}
-            <div class="borderline left"></div>
-            <div class="post-author-head">
-              <img src="{{ author.gravatar }}">
-              {% if author %}
-                <span>By <strong>{{ author.name }}</strong> on <strong> {{ page.date | date: "%b %-d, %Y"}}</strong></span>
-            {% endif %}
-            </div>
-          <img src="{{ page.image }}" title="{{page.keyword}}" alt="{{page.keyword}}" class="img-responsive"> -->
           {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
             {% if page.shortUrl != null %}
                 {% assign url = page.shortUrl %}
@@ -50,16 +41,9 @@ layout: default
         	{{ content }}
             {% include signup-block.html %}
 
-            {% if author %}
-            <div class="post-author">
-              <div class="post-author-image">
-                <img src="{{ author.gravatar }}">
-              </div>
-              <div class="post-author-details">
-				  <h5>by <a rel="author" href="https://plus.google.com/u/0/110032598276786643658?rel=author">{{ author.name }}</a></h5>
-                {{ author.details }}
-              </div>
-            </div>
+            {% if comment %}
+							<div class="just-comments" data-apikey="771a9fa5-2e14-42a7-a5cc-57e6b37ea126" ></div>
+							<script async src="https://just-comments.com/w.js"></script>
             {% endif %}
 
         </div>
