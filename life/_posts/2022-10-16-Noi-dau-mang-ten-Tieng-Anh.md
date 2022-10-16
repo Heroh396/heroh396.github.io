@@ -15,9 +15,9 @@ Chào mọi người, mình là H3 đã trở lại rồi đây.<br>
 Hôm nay, mình muốn tâm sự với các bạn về một nỗi đau, về nỗi trăn trở không chỉ của riêng mình mà của rất nhiều người trong chúng ta đây nữa - nỗi đau mang tên Tiếng Anh. Cuối cùng thì mình cũng đã hiểu ra được tiếng Anh là gì và làm sao để chiến thắng được nỗi đau này. Hãy dành một ít phút để thử đọc và cảm nhận những lời tâm sự từ tận đáy lòng của mình nhé. Cảm ơn bạn rất nhiều.<br>
 (Cho những ai thích nghe hơn đọc thì podcast của bài này tại [đây](https://open.spotify.com/show/7kZ4aGzAZbl5IyX1dVFGDD) nhé)<br>
 
+<img width="800" src="/imgs/life/english/learn_english_2.jpg"><br>
 15 năm, đó là con số thời gian mà tôi đã dành cho việc học tiếng Anh. Nhưng mà kết quả sau quãng thời gian đằng đẵng ấy, vẫn gần như là một con số 0 tròn trĩnh. Tiếng Anh như một rào chắn, không, chính xác hơn đó là 1 cánh cửa khổng lồ trước mắt tôi, ngăn cản tôi bước đến tương lai, không cho tôi tiếp cận những cánh cửa cơ hội khác. Và trong 15 năm ấy, tôi hằng ngày gõ, đâm, đục đẽo… tôi tìm mọi cách để xuyên thủng cánh cửa ấy. Nhưng mà, đó là một cánh cửa quá dày, quá cứng và kết quả của 15 năm trời học tiếng Anh chỉ là một vết xước nho nhỏ mà thôi. Tôi nhận ra rằng nhiệm vụ của mình bây giờ là phải tìm ra chiếc chìa khoá chính xác để mở cánh cửa này.<br>
 Vậy, chiếc chìa khoá đấy là gì? Đấy chính là phải cảm nhận được nỗi đau tiếng Anh, hiểu được tầm quan trọng của tiếng Anh, và từ đấy tìm ra cho mình cảm hứng, động lực để học tiếng Anh. Chỉ khi học tiếng Anh với cảm hứng, với niềm đam mê, chúng ta mới có thể vượt qua rào cản tiếng Anh và mở ra cánh cửa của cuộc đời mình.<br>
-<img width="800" src="/imgs/life/english/learn_english_2.jpg"><br>
 
 Các bạn ạ, nhiều người tự hỏi tại sao phải học tiếng Anh, tại sao tiếng Anh khó học đến thế, tại sao tôi không thể cảm nhận được nỗi đau tiếng Anh, hay không thể biến việc học tiếng Anh thành một nỗi trăn trở… Đó là bởi vì tiếng Anh không trực tiếp ảnh hưởng đến cuộc sống của chúng ta. Hãy nhìn lại xem, cuộc sống, công việc hiện tại của bạn có sử dụng tiếng Anh thường xuyên hay không, có bắt buộc phải dùng tiếng Anh hay không. Và nếu không có tiếng Anh thì sao? Công việc vẫn như thế, sự nghiệp vẫn như thế, có thể sẽ có khó khăn chút ít, nhưng ta vẫn cảm nhận được sự thoải mái với việc thiếu tiếng Anh.<br>
 
@@ -41,6 +41,5 @@ Và để vượt qua được những nỗi đau này, ta phải mở được 
 Và cuối cùng, cảm ơn bạn đã lắng nghe tâm sự của tôi. Đây đều là những lời từ tận đáy lòng mà hằng ngày tôi tự nhắc lại cho bản thân. Và nếu định mệnh đã đưa bạn đến đây và sau khi đọc hết bạn cảm nhận được một điều gì đấy, thì hãy chia sẻ và bình luận để mình và mọi người có thể cùng tâm sự nhé.<br>
 
 Cùng đồng hành với tôi trên chặng đường học tiếng Anh là Giao tiếp hằng ngày với người bản xứ cùng [Lucero Đinh](https://www.facebook.com/profile.php?id=100009675701713) và Nghe podcast nhẹ nhàng mỗi buổi sáng cùng [lamlam_story](https://open.spotify.com/show/27lI90HXm9stBVIv1zCt9h?si=cau-iVv8TAOHVxFEIaHWZw). Cảm ơn bạn rất nhiều.<br>
-
 <img width="800" src="/imgs/life/english/learn_english_5.png"><br>
 
