@@ -2,7 +2,7 @@
 layout: post
 title: Nỗi đau mang tên Tiếng Anh
 date: 2022-10-16 00:00
-teaser: 
+teaser: Hôm nay, mình muốn tâm sự với các bạn về một nỗi đau, về nỗi trăn trở không chỉ của riêng mình mà của rất nhiều người trong chúng ta đây nữa - nỗi đau mang tên Tiếng Anh. Cuối cùng thì mình cũng đã hiểu ra được tiếng Anh là gì và làm sao để chiến thắng được nỗi đau này.
 image: /imgs/life/english/learn_english.jpg
 author: heroh396
 comments: true
