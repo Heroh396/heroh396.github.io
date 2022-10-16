@@ -6,7 +6,7 @@ teaser:
 image: /imgs/life/english/learn_english.jpg
 author: heroh396
 comments: true
-shortUrl: the_pain_that_names_English
+shortUrl:
 ---
 
 
