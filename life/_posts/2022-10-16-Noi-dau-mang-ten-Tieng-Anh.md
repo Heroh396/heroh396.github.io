@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nỗi đau mang tên Tiếng Anh
-date: 2022-10-16 21:00
+date: 2022-10-16 00:00
 teaser: 
 image: /imgs/life/english/learn_english.jpg
 author: heroh396
