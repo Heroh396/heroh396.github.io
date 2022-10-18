@@ -13,4 +13,9 @@ Copyright from Beegit's pubic blog – powered by Jekyll.
     void main ()
 ```
 
+- Jekyll execution:
+    jekyll new --skip-bundle . --force
+    [Update _config.yam... ]
+    bundle install
+
 
