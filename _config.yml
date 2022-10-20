@@ -7,7 +7,6 @@ url: "https://yoloh3.github.io"
 future: true
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
  
 
 # Build settings
