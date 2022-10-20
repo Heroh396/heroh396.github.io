@@ -3,11 +3,8 @@ layout: null
 sitemap:
   exclude: 'yes'
 ---
-
-<head>
-    <meta name="google-site-verification" content="ZABsvo6CzwwlUUZbRDfynoKhPunDMBPdXqQfImKy8xA" />
-</head>
 <?xml version="1.0" encoding="UTF-8"?>
+<meta name="google-site-verification" content="ZABsvo6CzwwlUUZbRDfynoKhPunDMBPdXqQfImKy8xA" />
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for post in site.posts %}
     {% unless post.published == false %}
