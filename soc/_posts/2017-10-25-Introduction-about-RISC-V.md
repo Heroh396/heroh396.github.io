@@ -3,7 +3,7 @@ layout: post
 title: Introduction about RISC-V instruction set Architecture
 date: 2017-10-25 11:59
 teaser: Today I research about Gcc Cross-compiler. Who have been knowned about cross-compiler
-image: /imgs/riscv.jpg
+image: /imgs/others/riscv.jpg
 author: heroh396
 comments: true
 redirect_from: 

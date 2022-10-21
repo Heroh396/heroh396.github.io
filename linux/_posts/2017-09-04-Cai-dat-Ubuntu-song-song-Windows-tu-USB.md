@@ -3,7 +3,7 @@ layout: post
 title:  Cài đặt Ubuntu song song với Windows từ usb
 date: 	2017-09-04 11:55
 teaser: Hôm nay mình sẽ hướng dẫn chi tiết cách cài Ubuntu song song Windows và một số lỗi cơ bản khi cài đặt
-image: 	/imgs/ubuntu.png
+image: 	/imgs/others/ubuntu.png
 author: heroh396
 comments: true
 redirect_from:

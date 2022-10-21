@@ -3,7 +3,7 @@ layout: post
 title:  Research about the power in digital circuit
 date:   2017-06-29 03:26
 teaser: Introduction about power in digital circuit.
-image:  /imgs/write_note.jpg
+image:  /imgs/others/write_note.jpg
 author: heroh396
 comments: true
 redirect_from: "/buzz/2017/06/29/power-digital/"

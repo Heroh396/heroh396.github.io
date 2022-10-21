@@ -3,7 +3,7 @@ layout: post
 title:  Paper Machine Learning Enabled Power-Aware Network-on-Chip Design
 date:  2017-09-13 11:57
 teaser: Adaptive routing algorithms (using machine learning) to route packets from source to destination through non-power-gated (possibly longer) paths. 
-image: /imgs/machine_learning.jpg
+image: /imgs/others/machine_learning.jpg
 author: heroh396
 comments: true
 redirect_from:

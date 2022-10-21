@@ -18,23 +18,23 @@ Titan, Sword Art Online... Among them, there are some epic moment which make me
 unforgettable.<br>
 Do you remember the first time Songoku turn Super Saiyan when fighting with
 Frieza?<br>
-<img width="400" src="/imgs/life/anime/goku_vs_frieza.jpg"><br>
+<img width="800" src="/imgs/life/anime/goku_vs_frieza.jpg"><br>
 Or the fighting between Naruto vs Pain?<br>
-<img width="400" src="/imgs/life/anime/naruto_vs_pain.jpg"><br>
+<img width="800" src="/imgs/life/anime/naruto_vs_pain.jpg"><br>
 However, the moment that make me most interesting is the fighting between
 "Kirito and the gleam eyes".<br>
 It from one of the my favorite movies: Sword Art Online: Aincrad.
 Sword Art Online is a Japanese light novel series written by Reki Kawahara and
 illustrated by Abec. The series told about Kirito and Asuna characters as they
 play through various virtual reality MMORPG worlds.<br>
-<img width="400" src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png"><br>
+<img width="800" src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.png"><br>
 The Gleam Eyes was the boss of the 74th Floor in Sword Art Online.
 It was the first demon-type boss shown in the story
 and the only known boss that was defeated without a strategy meeting, with the
 Black Swordsman, Kirito, defeating it using «Dual Blades».<br>
 No need for waiting more, click the link below to enjoy the extremely awesome
 moments.<br>
-<video width="400" controls>
+<video width="800" controls>
 <br><source src="/imgs/life/anime/SAO_Kirito_vs_The_Gleam_Eyes.mp4" type="video/mp4">
 <br>Your browser does not support HTML5 video.
 </video><br>

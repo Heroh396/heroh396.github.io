@@ -6,3 +6,5 @@
 *.exe
 *~*
 diary/
+*.DS_Store
+.*

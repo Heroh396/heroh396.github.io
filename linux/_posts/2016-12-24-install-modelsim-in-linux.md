@@ -3,7 +3,7 @@ layout: post
 title:  Install modelsim on linux
 date:   2016-12-24 08:43
 teaser: How to install modelsim on linux and problem solving
-image:  /imgs/install-sw.png
+image:  /imgs/others/install-sw.png
 author: heroh396
 comments: true
 redirect_from:

@@ -3,7 +3,7 @@ layout: post
 title:  Catnap Energy Proportional Multiple Network-on-chip
 date: 2017-08-15 11:55
 teaser: Multiple Network-on-chip, another approach.
-image: /imgs/catnap.jpg
+image: /imgs/others/catnap.jpg
 author: heroh396
 comments: true
 redirect_from:

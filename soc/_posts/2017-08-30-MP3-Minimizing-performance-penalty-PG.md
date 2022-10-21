@@ -3,7 +3,7 @@ layout: post
 title: MP3 Minimizing Performance Penalty for Power-gating of Clos Network-on-Chip
 date: 2017-08-30 11:55
 teaser: A hard paper centrals Clos Network
-image: /imgs/mp3.jpg
+image: /imgs/others/mp3.jpg
 author: heroh396
 comments: true
 redirect_from:
