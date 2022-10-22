@@ -21,4 +21,4 @@ Copyright from Beegit's pubic blog – powered by Jekyll.
     bundle exec jekyll serve (Optional)
 
 - Sitemap:
-    http://yoloh3.github.io/sitemap.xml
+    http://yoloh3.com/sitemap.xml
