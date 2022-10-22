@@ -12,12 +12,14 @@
     <meta property="og:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}" />
     <meta property="og:image:width" content="{{ page.image.width }}" />
     <meta property="og:image:height" content="{{ page.image.height }}" />
+  {% else %}
+    <meta property="og:image" content="https://yoloh3.com/imgs/logo/H3_logo.PNG" />
   {% endif %}
   {% if page.is_post %}
     <meta property="og:site_name" content="{{ site.title }}" />
   {% endif %}
-  <div class="share">SHARE THIS</div>
 
+  <div class="share">SHARE THIS</div>
   <a class="twitter" id="social-twitter"  href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=ProjectBeegit&hashtags={{ tagStr }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Twitter"><i class="fa fa-twitter"></i></a>
 
   <a class="facebook" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" onclick="window.open(this.href, 'child', 'scrollbars,width=650,height=500'); return false" title="Share this post on Facebook"><i class="fa fa-facebook"></i></a>
