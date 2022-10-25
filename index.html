@@ -2,6 +2,8 @@
 layout: default
 ---
 {% for post in site.posts limit:1 %}
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0&appId=841948420148333&autoLogAppEvents=1" nonce="niUvYt23"></script>
   <div class="container-fluid image-header" style="background-image: url('{{ post.image }}');">
     <div class="row">
       <div class="image-header-overlay">
