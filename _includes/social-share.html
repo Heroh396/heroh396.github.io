@@ -6,7 +6,6 @@
     {% assign type = "website" %}
   {% endif %}
   <meta property="og:type" content="{{ type }}" />
-  <meta property="og:image" content="https://yoloh3.com/imgs/logo/H3_logo.PNG" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:description" content="{% if page.teaser %}{{ page.teaser | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
