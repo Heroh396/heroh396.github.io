@@ -6,6 +6,7 @@ teaser: This is a paper on power-gating project.
 image:  /imgs/others/many_paper.jpg
 author: heroh396
 comments: true
+redirect_from: "/buzz/2017/07/14/traffic-aware-PG/"
 shortUrl: 
 ---
 
