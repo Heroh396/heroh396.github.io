@@ -6,7 +6,6 @@ teaser: Introduction about power in digital circuit.
 image:  /imgs/others/write_note.jpg
 author: heroh396
 comments: true
-redirect_from: "/buzz/2017/06/29/power-digital/"
 shortUrl: 
 ---
 
