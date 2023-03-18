@@ -16,6 +16,7 @@ Hôm nay, mình muốn tâm sự với bạn về một nỗi đau, về một n
 
 <img width="800" src="/imgs/life/english/learn_english_2.jpg"><br>
 15 năm - đó là số năm cuộc đời mà tôi đã dành cho việc học tiếng Anh. Nhưng mà kết quả sau quãng thời gian đằng đẵng ấy gần như là con số 0 tròn trĩnh. Tiếng Anh như một rào chắn, hay chính xác hơn là một cánh cửa khổng lồ trước mắt tôi, ngăn cản tôi bước đến tương lai, không cho tôi tiếp cận những cánh cửa cơ hội khác. Và trong 15 năm ấy, tôi hằng ngày đâm, gõ, đục, đẽo… tìm mọi cách để xuyên thủng cánh cửa ấy. Nhưng mà, đó là một cánh cửa quá dày, quá cứng, và kết quả 15 năm trời học tiếng Anh chỉ là một vết xước nho nhỏ trên cánh cửa mà thôi. Và giờ tôi nhận ra rằng, nhiệm vụ của mình không phải là đục đẽo, mà là tìm ra chiếc chìa khoá phù hợp để mở cánh cửa này.<br>
+
 Vậy, chiếc chìa khoá đấy ở đâu?<br>
 Đó chính là việc bạn cảm nhận được nỗi đau tiếng Anh, hiểu được tầm quan trọng của tiếng Anh, và từ đấy tìm ra cho mình cảm hứng, động lực để học tiếng Anh. Chỉ khi học tiếng Anh với cảm hứng, với niềm đam mê, chúng ta mới có thể vượt qua rào cản tiếng Anh và mở ra cánh cửa của cuộc đời mình.<br>
 
