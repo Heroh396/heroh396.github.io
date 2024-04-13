@@ -19,6 +19,7 @@ It will be project-based series and I would like to implement a full chip design
 + Mar 22, 2024: Initial brainstorming
 + Mar 23, 2024: Discuss with Lucero
 + Arp 04, 2024: First meeting to initial OpenIC project. Adding new key member (NVL)
++ Arp 13, 2024: Weekly meeting
 
 ### Plan
 
@@ -27,8 +28,6 @@ I started from create a mind map to answer the questions: what, why, when, who, 
 
 My team need a project management tool, so we decided to use Meistertask.
 ![openic task](/imgs/soc/20240322_series_IC_design/openic_task_manage.png)
-
-###
 
 
 
