@@ -1,7 +1,15 @@
 ---
 layout: default
-title: About me, Yoloh3 - Ho Huy Hung
+title: About me
+date: 2024-5-24 11:59
+teaser: About me
+image: /imgs/logo/H3_logo.PNG
+author: heroh396
+comments: true
+redirect_from: 
+shortUrl: 
 ---
+
 <div class="container-fluid image-header" style="background-image: url('{{ page.image }}');">
   <div class="row">
     <div class="image-header-overlay">
@@ -60,6 +68,34 @@ title: About me, Yoloh3 - Ho Huy Hung
             Our objective is to create a fundamental environment
             for anyone interested in IC design so they can learn and be able to build a chip by themselves.
             Refer to our introduction here: <a href="https://yoloh3.com/soc/2024/03/22/Series-of-IC-design/">Series of IC design (yoloh3.com)</a>
+
+          <div class="post-wrapper-content">
+            {% include signup-block.html %}
+						{% if page.comments %}
+
+						<div id="disqus_thread"></div>
+							<script>
+                                /**
+                                *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    							*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT:
+                                https://disqus.com/admin/universalcode/#configuration-variables*/
+    							/*
+    							var disqus_config = function () {
+    								this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical
+    								URL variable
+    								this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your
+    								page's unique identifier variable
+    							};
+                                */
+    							(function() { // DON'T EDIT BELOW THIS LINE
+    								var d = document, s = d.createElement('script');
+    								s.src = 'https://yoloh3.disqus.com/embed.js';
+    								s.setAttribute('data-timestamp', +new Date());
+                                    (d.head || d.body).appendChild(s);
+                                })();
+                            </script>
+                            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+						{% endif %}
           </div>
         </article>
       </div>
