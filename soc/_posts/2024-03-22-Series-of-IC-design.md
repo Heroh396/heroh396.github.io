@@ -21,24 +21,12 @@ Our objective is to create a fundamental environment for anyone interested in IC
 + Leo: an ASIC design engineer with 6+ years of experience
 + Lucero: an electronics teacher with a high passion for IC, English and Sharing
 
-# Progress
-+ Mar 22, 2024: Initial brainstorming
-+ Mar 23, 2024: Discuss with Lucero
-+ Arp 04, 2024: First meeting to initial OpenIC project. Adding new key member (NVL)
-+ Arp 13, 2024: CPU design preparation done
-+ Arp 20, 2024: CPU design training start
-+ Arp 27, 2024: Blog writing training using Github done
-+ May 07, 2024: RTL2GDS document creation ongoing (30%)
-+ May 14, 2024: RTL2GDS document creation done
-+ May 18, 2024: RTL2GDS introduction (1st meeting)
-+ May 28, 2024: Trial Efabless Caravel User Project used OpenLand EDAs done
 
-
-# Project Management methodology
-I started from create a mind map to answer the questions: what, why, when, who, how.
+# Management methodology
+We started this project by creating a mind map to answer the questions: what, why, when, who, how.
 ![openic mindmap](/imgs/openic/20240322_series_IC_design/openic_mindmap.png)
 
-My team need a project management tool, so we decided to use Meistertask.
+My team need a project management tool, so we decided to use Meistertask (edu pro license $133/year)
 ![openic task](/imgs/openic/20240322_series_IC_design/openic_task_manage.png)
 
 
@@ -54,3 +42,15 @@ Excecuting Efabless Caravel User Project used OpenLand EDAs trial done - a small
 # Result
 
 WIP
+
+# Progress
++ Mar 22, 2024: Initial brainstorming
++ Mar 23, 2024: Discuss with Lucero
++ Arp 04, 2024: First meeting to initial OpenIC project. Adding new key member (Leo)
++ Arp 13, 2024: CPU design preparation done
++ Arp 20, 2024: CPU design training start
++ Arp 27, 2024: Blog writing training using Github done
++ May 07, 2024: RTL2GDS document creation ongoing (30%)
++ May 14, 2024: RTL2GDS document creation done
++ May 18, 2024: RTL2GDS introduction (1st meeting)
++ May 28, 2024: Trial Efabless Caravel User Project used OpenLand EDAs done
