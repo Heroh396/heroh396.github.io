@@ -36,6 +36,9 @@ We created RTL2GDS introduction document and start training to our teacher ^^.
 
 # Implementation
 
+We will use OpenLand flow to implement design from RTL to GDS and wish it can submit to Google MPW to tapout chip.
+![openland intro](/imgs/openic/20240322_series_IC_design/openland_intro.png)
+
 Excecuting Efabless Caravel User Project used OpenLand EDAs trial done - a small but important success!!
 ![openic trial](/imgs/openic/20240322_series_IC_design/efabless_trial_result.png)
 
