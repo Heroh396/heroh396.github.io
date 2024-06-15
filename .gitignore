@@ -5,6 +5,5 @@
 *.out
 *.exe
 *~*
-diary/
 *.DS_Store
 .*
