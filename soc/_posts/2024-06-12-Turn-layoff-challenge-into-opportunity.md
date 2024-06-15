@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turn layoff challenge into opportunity
-date: 2024-03-22 01:24
+date: 2024-06-12 01:24
 teaser: This is a perspective from a senior hardware design engineer's role to seek a new job.
 image: /imgs/life/work/layoff_0.jpg
 author: heroh396
