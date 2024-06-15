@@ -17,9 +17,9 @@ But after a week, he still wouldn’t report the task result. Why? So I synced-u
 I know, the problem was from me. I thought this task was light and not urgent, so I didn’t set a clear deadline and didn’t check the progress (my team works online). Besides, it also reminds me of a task management model (matrix?) that I think quite useful and it’s shown as below.
 
 - The model is based on 2 points: the task's importance and the assignee's capacity.
-- For important tasks: the asignee should ask for opinions or propose ideas; after being accepted they do and report regularly
-- For less important tasks: the asignee should explore and propose ideas, they should report when facing issue or any changes.
-- For unimportant tasks: depending on capacity, the asignee report when starting and completing.
+- For important tasks: the assignee should ask for opinions or propose ideas; after being accepted they do and report regularly
+- For less important tasks: the assignee should explore and propose ideas, they should report when facing issue or any changes.
+- For unimportant tasks: depending on capacity, the assignee report when starting and completing.
 
 ![task assign table](/imgs/life/work/task_assign_table.jpg)
 
