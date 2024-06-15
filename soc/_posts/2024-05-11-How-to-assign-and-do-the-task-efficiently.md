@@ -21,7 +21,7 @@ I know, the problem was from me. I thought this task was light and not urgent, s
 - For less important tasks: the asignee should explore and propose ideas, they should report when facing issue or any changes.
 - For unimportant tasks: depending on capacity, the asignee report when starting and completing.
 
-![openic mindmap](/imgs/life/work/task_assign_table.jpg)
+![task assign table](/imgs/life/work/task_assign_table.jpg)
 
 
 This model is based on the importance of the task and the experience of the assigned person. As for my team member, he had lots of experience and the task was not really important. Therefore, he should just notify when start and when complete the task. After that, I could review the result and assigned new task. In case of important tasks, we should report progress and follow up regularly.
