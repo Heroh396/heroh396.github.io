@@ -43,4 +43,5 @@ Then, apply for all suitable jobs on LinkedIn (or other websites like VietnamWor
 Additionally, contact recruiters directly with meaningful messages. Contact your connections (like Staff Engineers or Managers) and ask if they know of any opportunities.
 I've given you a sturdy fishing rod, so let's go fishing!
 
+I discovered a useful newsletter from [Resume Worded](https://resumeworded.com/) that provides weekly insights on CV creation. Below is a snapshot of this week's newsletter, which focuses on the theme of "Career Growth."
 ![career growth](/imgs/life/work/layoff_2.jpg)
