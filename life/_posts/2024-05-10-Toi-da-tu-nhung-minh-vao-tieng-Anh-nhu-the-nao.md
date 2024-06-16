@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tui đã tự nhúng mình vào tiếng Anh như thế nào
-date: 2022-10-16 00:00
+date: 2022-05-10 00:00
 teaser: Đây là số tiếp theo nói về trải nghiệm việc tự học tiếng Anh. Bài viết sẽ chia sẻ một số cách hay ho để coi tiếng Anh là "học như chơi, chơi như học".
 image: /imgs/life/english/learn_english_2_0.jpeg
 author: heroh396
