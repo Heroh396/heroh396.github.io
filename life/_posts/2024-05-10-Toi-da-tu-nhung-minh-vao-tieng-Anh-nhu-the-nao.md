@@ -15,7 +15,7 @@ Và đến ngày hôm nay, mình thật sự coi tiếng Anh là một hành tr�
 
 Và đối với mình, Tiếng Anh là một công cụ giao tiếp, vậy thì tại sao chúng ta không sử dụng công cụ này bằng một cách đơn giản nhất, đó là nhúng nó vào cuộc sống của mình!
 
-Đó là số tiếp theo nói về trải nghiệm việc tự học tiếng Anh, nếu ai chưa đọc số đầu tiên thì hãy ghé qua [Nỗi đau mang tên Tiếng Anh (yoloh3.com)](https://yoloh3.com/life/2022/10/16/Noi-dau-mang-ten-Tieng-Anh/) trước nhé. Bài viết sẽ chia sẻ một số cách hay ho để coi tiếng Anh là "học như chơi, chơi như học". Vì thế mọi người hãy cố gắng lướt xuống đọc hết và để lại bình luận cho mình nhé.
+Đó là số tiếp theo nói về trải nghiệm việc tự học tiếng Anh, nếu ai chưa đọc số đầu tiên thì hãy ghé qua đọc bài [Nỗi đau mang tên Tiếng Anh](https://yoloh3.com/life/2022/10/16/Noi-dau-mang-ten-Tieng-Anh/) trước nhé. Bài viết sẽ chia sẻ một số cách hay ho để coi tiếng Anh là "học như chơi, chơi như học". Vì thế mọi người hãy cố gắng lướt xuống đọc hết và để lại bình luận cho mình nhé.
 
 # Vậy tui nhúng TA vào cuộc đời tui như thế nào?
 
