@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tui đã tự nhúng mình vào tiếng Anh như thế nào
+title: Tôi đã tự nhúng mình vào tiếng Anh như thế nào
 date: 2024-05-10 00:00
 teaser: Đây là số tiếp theo nói về trải nghiệm việc tự học tiếng Anh. Bài viết sẽ chia sẻ một số cách hay ho để coi tiếng Anh là "học như chơi, chơi như học".
 image: /imgs/life/english/learn_english_2_0.jpeg
@@ -17,7 +17,7 @@ Và đối với mình, Tiếng Anh là một công cụ giao tiếp, vậy thì
 
 Đó là số tiếp theo nói về trải nghiệm việc tự học tiếng Anh, nếu ai chưa đọc số đầu tiên thì hãy ghé qua đọc bài [Nỗi đau mang tên Tiếng Anh](https://yoloh3.com/life/2022/10/16/Noi-dau-mang-ten-Tieng-Anh/) trước nhé. Bài viết sẽ chia sẻ một số cách hay ho để coi tiếng Anh là "học như chơi, chơi như học". Vì thế mọi người hãy cố gắng lướt xuống đọc hết và để lại bình luận cho mình nhé.
 
-# Vậy tui nhúng TA vào cuộc đời tui như thế nào?
+# Vậy tôi nhúng TA vào cuộc đời tôi như thế nào?
 
 Khi chúng ta giao tiếp bình thường sẽ sử dụng các giác quan là tai nghe (listening), mắt nhìn (reading) và miệng nói (speaking). Phong cách của mình là đơn giản hóa mọi vấn đề, vì vậy mình đơn giản là cứ nhúng tiếng Anh vào các hoạt động trên.
 
