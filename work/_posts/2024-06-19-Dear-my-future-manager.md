@@ -18,10 +18,10 @@ I am writing to express my strong interest in joining your company. When I learn
 - I am confident in my solid technical foundation and problem-solving skills to overcome any challenge.
 
 ### Why I Want to Join
-- **Professional Growth:** My current environment has limited opportunities for professional growth due to the number of years of experience. I want to push my boundaries and continuously learn and improve my skills.
-- **Collaborative Learning:** I am looking forward to working with talented individuals who share the same ambitions and are experts in the industry. This environment will allow me to learn and grow, both professionally and personally.
-- **Cultural Experience:** I want to gain experience in Western countries, where the working style is completely different from the companies I have worked for in Vietnam, India, or Japan.
-- **Contributing to Vision:** I am passionate about contributing my abilities and talents to help the company achieve its vision of creating innovative and impactful products.
+- __Professional Growth:__ My current environment has limited opportunities for professional growth due to the number of years of experience. I want to push my boundaries and continuously learn and improve my skills.
+- __Collaborative Learning:__ I am looking forward to working with talented individuals who share the same ambitions and are experts in the industry. This environment will allow me to learn and grow, both professionally and personally.
+- __Cultural Experience:__ I want to gain experience in Western countries, where the working style is completely different from the companies I have worked for in Vietnam, India, or Japan.
+- __Contributing to Vision:__ I am passionate about contributing my abilities and talents to help the company achieve its vision of creating innovative and impactful products.
 
 ### My Vision
 - I aspire to differentiate myself—not just by seeking a high-income job in Vietnam but by creating real value through advanced technology products.
